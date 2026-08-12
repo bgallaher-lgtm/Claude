@@ -201,10 +201,84 @@ lot of API calls per search, so budget for that in cost/rate-limit planning.
 
 ---
 
+## 6. App Store / Play Store readiness checklist
+
+Both stores allow this category of app (navigation + lightweight CRM are
+well-established categories on both), but a few store-specific requirements
+are cheaper to design for now than to retrofit later.
+
+### Permissions & privacy
+
+- [ ] **Location permission tier decided:** "While Using the App" is enough
+      for features A and C. "Always"/background is only needed if a future
+      version auto-detects arrival at a detour stop (feature B) while the
+      app isn't in the foreground — Apple requires a specific, user-facing
+      justification string for this tier and reviews it more closely.
+      Recommendation: ship with "While Using the App" for v1 and defer
+      background tracking to a later release once it's clearly needed.
+- [ ] **Specific purpose strings written** for `NSLocationWhenInUseUsageDescription`
+      (and `NSLocationAlwaysAndWhenInUseUsageDescription` if/when needed) —
+      generic text like "for app functionality" is a common rejection reason.
+- [ ] **Contacts import uses the native picker**
+      (`CNContactPickerViewController` on iOS / Android's equivalent
+      contact-picker intent), not a bulk contacts-read API. The picker lets
+      the user choose exactly which contacts to share and — on iOS —
+      doesn't even trigger the Contacts permission prompt, which simplifies
+      both the review and the privacy story.
+- [ ] **App Privacy "nutrition label" (Apple) / Data Safety form (Google Play)
+      filled out accurately** — both disclose precise location and contacts
+      collection. Reviewers spot-check that the declared labels match actual
+      app behavior, so keep this in sync as features change.
+- [ ] **Purpose strings + privacy labels reviewed together before every
+      submission** — a common rejection is a mismatch between what's
+      disclosed and what the code actually does (e.g. adding a new location
+      use case without updating the label).
+
+### Map & POI data licensing
+
+- [ ] **Map tile provider and POI/places data provider chosen as a matched
+      pair**, with terms confirmed to allow that combination (see §7 below
+      — some providers restrict displaying their POI data on a competitor's
+      base map). Lock this in before building much UI against it, since
+      swapping providers later means redoing search/geocoding integration.
+- [ ] **API usage terms reviewed for the specific use case**, particularly
+      routing/detour-cost search, since that pattern makes many queries per
+      user search — confirm the provider's terms and pricing tier account
+      for that query volume, not just typical single-route usage.
+
+### Monetization (if applicable)
+
+- [ ] **In-app purchases routed through Apple IAP / Google Play Billing**
+      if charging for any digital tier (e.g. a paid customer-book tier) —
+      external payment links for a purely digital feature are not allowed
+      on iOS and are restricted on Android.
+- [ ] **Subscription terms (if used) match store subscription UI
+      requirements** — clear pricing, renewal terms, and an in-app way to
+      manage/cancel.
+
+### General submission hygiene
+
+- [ ] **Background location, if ever added, has review notes prepared**
+      explaining the specific feature that needs it (App Review often asks).
+- [ ] **Account deletion / data export path exists** if user accounts are
+      required — both stores increasingly require this for apps that collect
+      personal data (Apple has required it since 2022).
+- [ ] **Crash-free test pass on a real device** (not just simulator) before
+      submission — routing/location bugs are easy to miss in the simulator.
+
+---
+
 ## Next steps
 
-Tell me which of these you want to go deeper on first — e.g. a clickable
-prototype of the corridor-search ranking (feature A, the hardest one), a
-data model + API spec for the customer book (feature C, the fastest to
-ship), or a comparison of Mapbox vs. MapKit specifically for your use case
-— and I'll turn it into buildable specs or actual code.
+Two things worth deciding next:
+
+1. **Map tile + POI data provider pairing** — this is the licensing decision
+   that's expensive to change later. Tell me which combination you're
+   leaning toward (e.g. Mapbox tiles + Mapbox/Overture POI data, or Apple
+   MapKit + a separate Places provider) and I'll dig into that pairing's
+   specific terms and cost model.
+2. Or pick a feature to turn into buildable specs/code: a clickable
+   prototype of the corridor-search ranking (feature A, the hardest one),
+   a data model + API spec for the customer book (feature C, the fastest
+   to ship), or a comparison of Mapbox vs. MapKit for your specific use
+   case.
