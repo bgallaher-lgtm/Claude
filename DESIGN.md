@@ -286,17 +286,18 @@ Phase 0–1 alone gets you a searchable, self-tagging photo archive; Phases
 - ~~Approximate library size?~~ **Answered: ~50,000 and growing** — this
   puts us past the point where SQLite is the comfortable choice; plan on
   PostgreSQL + `pgvector` from the start (§6).
-- **Is the Dropbox library already synced locally via the desktop app, or
-  Dropbox-only?** Determines whether Phase 0 just reads a local folder or
-  needs to script bulk downloads via the Dropbox API.
+- ~~Is the Dropbox library already synced locally via the desktop app, or
+  Dropbox-only?~~ **Answered: Dropbox is synced locally on this machine** —
+  Phase 0 ingestion reads the local synced folder directly; no Dropbox API
+  integration needed.
 - **What format are the discs** (CD/DVD data discs with image files, or
   something like old Shutterfly/Kodak CD-with-viewer-software discs)? Plain
   image files just get pointed at like any other source folder; a
   proprietary viewer format may need a manual export step first.
-- **Do you have a drive/NAS with room for a second full copy of the
-  library** (~200–500GB, since sources stay untouched and the archive is a
-  de-duplicated second copy, per §2)? Worth confirming before the first
-  big import.
+- ~~Do you have a drive/NAS with room for a second full copy of the
+  library?~~ **Answered: a 2TB external hard drive is available** — well
+  above the ~200–500GB estimate, with plenty of headroom as the disc
+  imports get added too.
 - **Hardware available for the face-detection pass?** CPU-friendly but
   faster with a GPU — matters for how long the first full 50,000-photo
   pass takes (plausibly hours on CPU), not for feasibility.
