@@ -65,16 +65,95 @@ This maps directly onto your requested workflow:
   will do worse on Myles at age 6. Practically this means re-reviewing/
   correcting the "Myles" cluster periodically rather than expecting one
   training pass to hold forever — the tools should make correction cheap
-  (see §3), not try to eliminate it.
+  (see §4), not try to eliminate it.
 - **Look-alike relatives / siblings** reduce match confidence — the
-  threshold tuning in §2 trades off "auto-tag more, correct more" vs.
+  threshold tuning in §4 trades off "auto-tag more, correct more" vs.
   "auto-tag conservatively, review more."
 - **Old scanned/low-res photos** detect and embed faces less reliably;
   expect a higher fraction of those to land in manual review.
 
 ---
 
-## 2. Data model
+## 2. Ingesting your existing library (Dropbox + discs), de-duplication, and directory strategy
+
+At ~50,000 photos across Dropbox with more still to add from discs, and
+likely duplicates throughout, three things need to happen before the
+tagging pipeline even starts: pull everything into one place, find
+duplicates without silently deleting anything, and give you a growing
+"trusted, organized" directory you can watch fill up as photos get
+processed.
+
+**Pulling from Dropbox**
+- If the Dropbox desktop app already syncs the full library to a local
+  folder, ingestion can just read that folder directly — simplest option,
+  no API integration needed.
+- If you'd rather not sync all 50k photos to a local machine, the Dropbox
+  API (official Python SDK) can list and download in batches instead.
+  Either way, this is a one-time bulk pull; at this volume, budget for it
+  taking a while over ordinary internet bandwidth — 50,000 photos is
+  plausibly 100–250GB depending on typical file size.
+
+**Adding the discs**
+- Each disc feeds through the same ingestion path (checksum + EXIF
+  extraction) as the Dropbox pull — a disc is just another source folder.
+  Disc photos are often *older* scans/exports that may already exist in
+  Dropbox in some form, so this is exactly where duplicate detection earns
+  its keep.
+
+**Duplicate detection — two tiers, because deleting the wrong photo is not
+an acceptable failure mode here:**
+1. **Exact duplicates (safe to auto-collapse):** a SHA-256 checksum of the
+   file bytes. Byte-identical copies — the same file synced twice, the
+   same export downloaded twice, a disc that turns out to be a backup of
+   files already in Dropbox — are true duplicates regardless of filename
+   or folder. These get merged into a single library entry automatically;
+   nothing is deleted, the extra copies just aren't re-imported as
+   separate photos.
+2. **Near-duplicates (flagged for your review, never auto-removed):**
+   perceptual hashing (pHash) catches the same photo re-saved at a
+   different size/quality/format — common when a disc scan and a Dropbox
+   upload are technically different files but the same picture. This is
+   fundamentally different from two similar-but-distinct shots (e.g., a
+   burst of 5 frames a second apart at an event) — the tool should surface
+   near-duplicate groups as *suggestions* in a review screen, not delete
+   anything automatically. Given these are irreplaceable family photos,
+   the only fully automatic action is on byte-exact copies; everything
+   else stays a human decision.
+
+**Directory strategy — protecting your sources and building a trusted
+archive you can watch grow:**
+- **Sources stay read-only.** The Dropbox export and disc images are never
+  modified or deleted by the tool — they remain the untouched safety-net
+  backup, full stop.
+- **A new canonical archive directory** (e.g. `PhotoArchive/by-year/2024/…`)
+  is what the tool actually writes to: organized by year (matching your
+  "book by year" use case), with chronologically-sortable filenames, and
+  containing exactly one de-duplicated copy of each unique photo.
+- **This archive grows incrementally as photos get processed** — the "new
+  folder, land here, I know it's safe" behavior you're after. A photo
+  earns its place in `PhotoArchive/` once it's been de-duplicated and
+  dated, *before* it necessarily has a person tag — person-tagging can lag
+  behind (that's what the Unidentified-review workflow in §4 is for), but
+  "is this a confirmed unique, dated, archived photo" happens up front, so
+  the protected archive fills in steadily rather than waiting on every
+  face to be named.
+- **Person-based views stay virtual, not physical duplicate folders.** A
+  photo with three people in it shouldn't need three physical copies —
+  "Myles" or "Me + Holly + Myles" stay as database queries/saved albums
+  (§6) rather than folders that would need to be kept in sync. If a
+  literal browsable folder-per-person is still useful day-to-day, it can
+  be done cheaply with symlinks into `PhotoArchive/by-year/` rather than
+  real copies — worth deciding once the base archive exists.
+- **Storage planning:** since sources stay untouched *and* the archive is
+  a second full copy, budget roughly double the source library's disk
+  space (~200–500GB round-tripped, depending on original file sizes).
+  Worth confirming you have a drive/NAS with that headroom before the
+  first big import — this is the one practical blocker worth resolving
+  before writing any code.
+
+---
+
+## 3. Data model
 
 ```
 Photo
@@ -104,7 +183,7 @@ without touching the others), and confidence/audit info lives per-face.
 
 ---
 
-## 3. The review/tagging workflow (the part you interact with)
+## 4. The review/tagging workflow (the part you interact with)
 
 1. **Import.** Point the tool at a folder (or upload in bulk). It hashes
    each file (skip exact duplicates), extracts EXIF date/GPS, and queues
@@ -133,7 +212,7 @@ without touching the others), and confidence/audit info lives per-face.
 
 ---
 
-## 4. Curation → export for printing
+## 5. Curation → export for printing
 
 Since Shutterfly/Mixbook/Snapfish don't offer book-building APIs, the
 pipeline's output is a **curated, ordered photo set per book**, exported in
@@ -155,7 +234,7 @@ whatever form is fastest to hand off:
 
 ---
 
-## 5. Tech stack recommendation
+## 6. Tech stack recommendation
 
 Given these are personal/family photos, **local-first (no cloud face API)
 is the right default** — both for privacy and because it avoids per-photo
@@ -170,15 +249,18 @@ cloud costs at your volume.
 | Backend | Python (FastAPI) | Face-recognition ecosystem (InsightFace, dlib, face_recognition, HDBSCAN) is overwhelmingly Python-first; keeping the backend in Python avoids a cross-language bridge. |
 | Review/tagging UI | Simple web app (FastAPI + a lightweight frontend — even server-rendered HTML/HTMX is enough for a personal tool) | The UI surface is small: a cluster-naming grid, a per-person/year gallery, and a book-curation drag-reorder view. Doesn't need a heavy SPA framework. |
 | Storage | Original files stay on disk (local NAS/external drive recommended given photo volume); DB stores paths + thumbnails, not the originals | Keeps you in control of the source files and avoids duplicating multi-GB libraries into a database. |
-| Export | Script that copies/renames the curated set into a numbered folder per book; optional PDF preview via `reportlab` or similar | Matches the "no book API" reality in §4. |
+| Export | Script that copies/renames the curated set into a numbered folder per book; optional PDF preview via `reportlab` or similar | Matches the "no book API" reality in §5. |
+| Dedup | SHA-256 for exact matches, `imagehash` (pHash) for near-duplicate detection | Exact matches auto-collapse safely; near-duplicates only ever get flagged for review — see §2. |
 
 ---
 
-## 6. Suggested build order
+## 7. Suggested build order
 
-1. **Phase 0 — Ingestion.** Folder/bulk import, checksum de-dupe, EXIF date/
-   GPS extraction, thumbnail generation. Gets your whole library into the
-   system and browsable by date even before any face work runs.
+1. **Phase 0 — Ingestion.** Dropbox pull + disc import, checksum de-dupe,
+   near-duplicate flagging, EXIF date/GPS extraction, thumbnail generation,
+   and writing confirmed-unique photos into the growing `PhotoArchive/`
+   directory (§2). Gets your whole ~50,000-photo library into one place,
+   de-duplicated, dated, and browsable, even before any face work runs.
 2. **Phase 1 — Detect + cluster + name.** Face detection/embedding
    pipeline, clustering, and the cluster-naming review screen (including
    merge/split/ignore). This is the core "sort, then I tell you who people
@@ -197,28 +279,39 @@ Phase 0–1 alone gets you a searchable, self-tagging photo archive; Phases
 
 ---
 
-## 7. Open questions worth deciding before building
+## 8. Open questions worth deciding before building
 
-- **Where do the photos live?** Local drive/NAS vs. cloud storage (e.g. an
-  existing Google Photos/iCloud library) changes the ingestion design
-  significantly — pulling from an existing cloud library needs that
-  service's export/API instead of a folder importer.
-- **Approximate library size?** Hundreds vs. tens of thousands of photos
-  changes whether SQLite is fine to start or Postgres+pgvector should be
-  the first choice, and how long the initial detect/cluster batch job
-  takes.
-- **Hardware available?** Face embedding is CPU-friendly but faster with a
-  GPU; matters mainly for how long the first full-library pass takes, not
-  for feasibility.
+- ~~Where do the photos live?~~ **Answered: Dropbox (~50,000 photos),
+  plus discs still to be imported.**
+- ~~Approximate library size?~~ **Answered: ~50,000 and growing** — this
+  puts us past the point where SQLite is the comfortable choice; plan on
+  PostgreSQL + `pgvector` from the start (§6).
+- **Is the Dropbox library already synced locally via the desktop app, or
+  Dropbox-only?** Determines whether Phase 0 just reads a local folder or
+  needs to script bulk downloads via the Dropbox API.
+- **What format are the discs** (CD/DVD data discs with image files, or
+  something like old Shutterfly/Kodak CD-with-viewer-software discs)? Plain
+  image files just get pointed at like any other source folder; a
+  proprietary viewer format may need a manual export step first.
+- **Do you have a drive/NAS with room for a second full copy of the
+  library** (~200–500GB, since sources stay untouched and the archive is a
+  de-duplicated second copy, per §2)? Worth confirming before the first
+  big import.
+- **Hardware available for the face-detection pass?** CPU-friendly but
+  faster with a GPU — matters for how long the first full 50,000-photo
+  pass takes (plausibly hours on CPU), not for feasibility.
 - **How many distinct people do you expect to tag** (immediate family only,
   or also grandparents/friends/extended family)? Affects how much the
   Unidentified-directory workflow gets used in practice.
 
 ## Next steps
 
-Tell me your rough photo count and where the library currently lives
-(local folders, external drive, Google Photos/iCloud export, etc.), and
-I'll turn Phase 0 (ingestion + EXIF) and Phase 1 (detect/cluster/name) into
-an actual runnable prototype — that's the part worth validating first,
-since it's the core of the "sort, then tell you who's who" workflow you
-described.
+The two blockers worth resolving before writing code are (1) whether
+Dropbox is locally synced or needs API-based bulk download, and (2)
+confirming you have enough storage for a second, de-duplicated copy of the
+library. Once those are settled, Phase 0 (Dropbox/disc ingestion, exact +
+near-duplicate detection, EXIF extraction, and the growing `PhotoArchive/`
+directory) is the right first thing to actually build and run against a
+real subset of your library — it's the part worth validating first, since
+everything else (tagging, querying, book export) depends on having a
+clean, de-duplicated, dated archive underneath it.
