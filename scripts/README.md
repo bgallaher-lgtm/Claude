@@ -46,6 +46,32 @@ The run is safe to stop and re-start — it checks `manifest.json` and
 skips anything already archived, so re-running (e.g. after adding more
 discs) only processes new files.
 
+## Triaging unknown folders before archiving them
+
+If your Dropbox mixes personal photos with other stuff (e.g. client/backup
+folders from work), don't run `phase0_ingest.py` blindly against
+everything — use `scan_inventory.py` first. It's **read-only**: it never
+copies your original photos anywhere. For each folder it finds, it counts
+the images, reads an approximate date range from EXIF, and builds a small
+thumbnail contact sheet so you can tell at a glance whose photos they are.
+
+```
+python scan_inventory.py --root "C:\Users\you\Dropbox" --skip "C:\Users\you\Dropbox\Camera Uploads\Myles Baby Pics" --output inventory_review
+```
+
+Pass `--skip` once for every folder you've already reviewed/archived (so
+re-running only reports on what's left). Then open
+`inventory_review\contact_sheets\` and flip through the thumbnails —
+folder path is in the header of each sheet. Once you know which folders
+are actually yours, pass those to `phase0_ingest.py --source`; leave
+anything that looks like someone else's backup alone entirely.
+
+This step doesn't need face recognition to be useful — a folder's contents
+and date range are usually enough to tell whose photos they are. Once
+Phase 1 (face detection/tagging) exists, it can add a second signal (e.g.
+"zero matches to any named family member"), but it's not a prerequisite
+for this triage pass.
+
 ## Known limitations of this prototype
 
 - **Near-duplicate detection is brute-force** (compares every new photo's
