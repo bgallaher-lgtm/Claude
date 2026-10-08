@@ -25,3 +25,14 @@ for r,row in enumerate(m):
 print("version", qr.version, "modules", n, "module px", mod, "QR inches", size/600)
 im.save(out+".png", dpi=(600,600))
 im.save(out+".pdf", resolution=600)
+
+# Bleed version: 0.125" each side (3.25" x 4.25" at 600 DPI). The artwork's thin
+# black outline sits on the trim line, so extend it as solid black into the bleed
+# and fill the white corners outside the rounded outline.
+B = 75
+bl = Image.new("RGB", (2400+2*B, 1800+2*B), "black")
+bl.paste(im, (B, B))
+for pt in [(B+2, B+2), (B+2397, B+2), (B+2, B+1797), (B+2397, B+1797)]:
+    ImageDraw.floodfill(bl, pt, (0,0,0), thresh=200)
+bl.save(out+"-bleed.png", dpi=(600,600))
+bl.save(out+"-bleed.pdf", resolution=600)
