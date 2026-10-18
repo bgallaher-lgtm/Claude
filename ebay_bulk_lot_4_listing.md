@@ -3,7 +3,7 @@
 **Title (70 characters):**
 Lot 8x SK Hynix 32GB DDR4 3200 Server RDIMM + 9x Cisco 4GB DRAM Tested
 
-**Lot price:** $1,084.91 (17 sticks)
+**Lot price:** $1,824.91 (17 sticks)
 
 ---
 
@@ -26,8 +26,8 @@ Bulk lot of 17 memory modules: SK Hynix 32GB DDR4-3200 server RAM and Cisco 4GB 
 
 | Brand | Speed | Size | Type | Qty | Each | Line total |
 |---|---|---|---|---|---|---|
-| SK Hynix | DDR4-3200 / PC4-25600 | 32GB | Server | 8 | $107.50 | $860.00 |
+| SK Hynix | DDR4-3200 / PC4-25600 | 32GB | Server | 8 | $200.00 | $1,600.00 |
 | Cisco | Cisco DRAM module | 4GB | Cisco DRAM module | 9 | $24.99 | $224.91 |
-| **Total** | | | | **17** | | **$1,084.91** |
+| **Total** | | | | **17** | | **$1,824.91** |
 
 Need only part of the lot? Message me and I can remove any brand or line and adjust the price.
