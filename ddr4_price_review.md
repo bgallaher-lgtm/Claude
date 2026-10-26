@@ -86,7 +86,7 @@ Proposed per-stick prices, using the same 16GB = 2 × 8GB + $2.50 rule:
 
 ## 3. Problems to deal with before pricing
 
-1. **Lot 4 sold as the wrong speed.** It sold Oct 19 under the old title, "SK Hynix 32GB **DDR4-3200 PC4-25600**", but the sticks are DDR4-2666 (PC4-2666V). The buyer can return it as "not as described". It also hasn't shipped seven days after the sale. Message the buyer before shipping: explain the correction and offer a partial refund or cancellation.
+1. **Lot 4 sold as the wrong speed.** It sold Oct 19 under the old title, "SK Hynix 32GB **DDR4-3200 PC4-25600**", but the sticks are DDR4-2666 (PC4-2666V). The buyer can return it as "not as described". It also hasn't shipped seven days after the sale. Message the buyer before shipping: explain the correction and offer a partial refund or cancellation. **Update:** the order was cancelled, and the lot is relisted as DDR4-2666 at $1,400 ($175 per stick).
 2. **"Lot 157x DDR4 Mixed" sold for $1,249.99, about $7.96 per stick.** It isn't one of the lots we built, and that's well below the bulk list ($11–13.50 for 4GB, $22–25 for 8GB). Even if every stick were 4GB, the bulk list would put it at about $1,700. Check what was in it and how it was priced.
 3. **July server RAM sales came in far under today's list.** In late July, 16GB DDR4-2133 RDIMMs sold for about $13.75 a stick, against a bulk list price of $42.50 now. That's either much older pricing or the market has moved a lot. Check current sold listings for 16GB+ server RAM before the next server lot.
 

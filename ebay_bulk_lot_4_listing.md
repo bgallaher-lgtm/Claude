@@ -3,7 +3,7 @@
 **Title (68 characters):**
 Lot of 8 SK Hynix 32GB DDR4 2666 PC4-2666V ECC REG Server RAM Tested
 
-**Lot price:** $1,600.00 (8 sticks)
+**Lot price:** $1,400.00 (8 sticks)
 
 ---
 
@@ -25,7 +25,7 @@ Lot of 8 SK Hynix 32GB DDR4-2666 (PC4-2666V) server memory modules. **Every modu
 
 | Brand | Speed | Size | Type | Qty | Each | Line total |
 |---|---|---|---|---|---|---|
-| SK Hynix | DDR4-2666 / PC4-21300 | 32GB | Server | 8 | $200.00 | $1,600.00 |
-| **Total** | | | | **8** | | **$1,600.00** |
+| SK Hynix | DDR4-2666 / PC4-21300 | 32GB | Server | 8 | $175.00 | $1,400.00 |
+| **Total** | | | | **8** | | **$1,400.00** |
 
 Need fewer? Message me and I can adjust the quantity and price.
