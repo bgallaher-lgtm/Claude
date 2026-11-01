@@ -1,17 +1,20 @@
 # eBay Bulk Lot 7 Listing: DDR4 Mixed
 
-**Title (72 characters):**
-Lot 164x DDR4 RAM Mixed Laptop Desktop + 32GB Server 4GB 8GB 16GB Tested
+**Title (75 characters):**
+Lot 164x DDR4 RAM Mixed Laptop SODIMM Desktop DIMM 4GB 8GB 16GB 32GB Tested
 
-**Price:** $3,760.50 | Free Shipping (164 sticks, $22.93 per stick average)
+**Price:** $3,678.00 | Free Shipping (164 sticks, $22.43 per stick average)
 
 ---
 
 ## Description
 
-Bulk lot of 164 DDR4 RAM sticks: laptop SODIMM and desktop DIMM, plus server RDIMM, mixed speeds and capacities. Full inventory breakdown below.
+Bulk lot of 164 DDR4 RAM sticks: laptop SODIMM and desktop DIMM, mixed speeds and capacities. Full inventory breakdown below.
 
-**LAPTOP SODIMM — 260-Pin, non-ECC (114 sticks)**
+**LAPTOP SODIMM — 260-Pin, non-ECC (115 sticks)**
+
+32GB sticks (1):
+- 1x 32GB DDR4-3200 (PC4-25600)
 
 16GB sticks (1):
 - 1x 16GB DDR4-3200 (PC4-25600)
@@ -40,11 +43,6 @@ Bulk lot of 164 DDR4 RAM sticks: laptop SODIMM and desktop DIMM, plus server RDI
 - 2x 4GB DDR4-2666 (PC4-21300)
 - 2x 4GB DDR4-2400 (PC4-19200)
 - 7x 4GB DDR4-2133 (PC4-17000)
-
-**SERVER RDIMM — 288-Pin, Registered ECC (1 stick)**
-
-32GB sticks (1):
-- 1x 32GB DDR4-3200 (PC4-25600)
 
 **TOTALS:**
 
@@ -79,7 +77,7 @@ Mixed brands (Samsung, Micron, SK hynix, etc.). All pulled from working systems.
 | Desktop | 4GB | DDR4-2666 / PC4-21300 | 2 | $13.00 | $26.00 |
 | Desktop | 4GB | DDR4-2400 / PC4-19200 | 2 | $12.00 | $24.00 |
 | Desktop | 4GB | DDR4-2133 / PC4-17000 | 7 | $12.00 | $84.00 |
-| Server | 32GB | DDR4-3200 / PC4-25600 | 1 | $200.00 | $200.00 |
-| **Total** | | | **164** | | **$3,760.50** |
+| Laptop | 32GB | DDR4-3200 / PC4-25600 | 1 | $117.50 | $117.50 |
+| **Total** | | | **164** | | **$3,678.00** |
 
-Lowest OK price at 90% of the list: $3,384.45. Set Best Offer auto-decline below this.
+Lowest OK price at 90% of the list: $3,310.20. Set Best Offer auto-decline below this.
