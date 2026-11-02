@@ -1,6 +1,6 @@
 # Gaming RAM Listings
 
-23 listings, 51 sticks, $977.77 total. All tested on a RAM tester.
+27 listings, 61 sticks, $1,173.73 total. All tested on a RAM tester.
 Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 # Batch 1 - DDR3
@@ -196,6 +196,40 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 **Description:** 2x HX316C10FR/8 (same part number), 8GB DDR3-1600 CL10, 1.5V. Red heatspreaders. Sold new as single sticks; identical specs. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
 
 *Pricing note (for you):* Base price (2 x $12.50).
+
+# Batch 6 - DDR3 premium
+
+## G24. $109.99
+
+**Title (77 characters):** Corsair Dominator Platinum 32GB (4x8GB) DDR3 2400 CL10 CMD32GX3M4A2400C10 RAM
+
+**Description:** Matched 4-stick kit CMD32GX3M4A2400C10. 4x 8GB DDR3-2400 10-12-12-31, 1.65V, XMP. Corsair Dominator Platinum premium line with DHX cooling. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+
+*Pricing note (for you):* Above base ($90 = 4 x $22.50): Dominator Platinum is Corsair's premium line, and a full matched 32GB kit. Keep all 4 together.
+
+## G25. $34.99
+
+**Title (75 characters):** G.Skill Ares 16GB (2x8GB) DDR3 2133 CL10 F3-2133C10D-16GAB Blue Desktop RAM
+
+**Description:** Matched kit F3-2133C10D-16GAB. 2x 8GB DDR3-2133 (PC3-17000) CL10-12-12-31, 1.60V, Intel XMP. Low-profile blue heatspreaders. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+
+*Pricing note (for you):* Base price. Matches the G.Skill Ripjaws X 2x8GB 2133 kit that sold for $34.99.
+
+## G26. $25.99
+
+**Title (77 characters):** Crucial Ballistix Sport 16GB (2x8GB) DDR3 1866 CL10 BLS8G3D18ADS3 Desktop RAM
+
+**Description:** 2x BLS8G3D18ADS3.16FER, 8GB DDR3-1866 10-10-10-30, 1.5V, XMP. Blue heatspreaders. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+
+*Pricing note (for you):* Base price. Some staining on the heatspreaders - wipe before photos and show any that remains.
+
+## G27. $24.99
+
+**Title (76 characters):** Crucial Ballistix Sport 16GB (2x8GB) DDR3 1600 CL9 BLS8G3D169DS3 Desktop RAM
+
+**Description:** 2x BLS8G3D169DS3.16FND, 8GB DDR3-1600 9-9-9-24, 1.5V, XMP. Blue heatspreaders. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+
+*Pricing note (for you):* Base price.
 
 # Send back to supplier (25 sticks)
 
