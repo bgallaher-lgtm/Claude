@@ -269,7 +269,7 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* Base price. Some dust/residue on one heatspreader - wipe before photos.
 
-# Send back to supplier (25 sticks)
+# Send back to supplier (43 sticks)
 
 | # | Stick | Size / speed | Reason |
 |---|---|---|---|
@@ -288,3 +288,12 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 | 13 | Micron 8GB 2Rx4 PC3-10600R x4 | 8GB DDR3-1333 server RDIMM | Server DDR3 sells ~$4-5/stick; lot loses money |
 | 14 | Kingston HyperX Blu KHX1333C9D3B1K2/8G x3 | 4GB DDR3-1333 | 4GB, slow |
 | 15 | Kingston HyperX Blu Red KHX16C9B1RK2/8 x4 | 4GB DDR3-1600 | 4GB; stained heatspreaders |
+| 16 | HyperX Fury blue HX316C10FK2/8 x2 | 4GB DDR3-1600 | 4GB |
+| 17 | Kingston HyperX Blu KHX1600C9D3B1K2/8GX x2 | 4GB DDR3-1600 | 4GB |
+| 18 | Kingston HyperX red KHX16C9B1RK2/8X x2 | 4GB DDR3-1600 | 4GB |
+| 19 | G.Skill Ripjaws F3-10666CL9D-8GBRL x2 | 4GB DDR3-1333 | 4GB, slow |
+| 20 | Corsair Vengeance CMZ16GX3M4X1600C9G x2 | 4GB DDR3-1600 | 4GB |
+| 21 | Kingston HyperX Genesis KHX1600C9D3K2/8GX x2 | 4GB DDR3-1600 | 4GB |
+| 22 | Crucial Ballistix Sport BLS4G3D1609DS1S00 x2 | 4GB DDR3-1600 | 4GB |
+| 23 | HyperX Fury white HX316C10FWK2/8 x2 | 4GB DDR3-1600 | 4GB |
+| 24 | Crucial Ballistix Tactical BLT4G3D1337DT1TX0 x2 | 4GB DDR3-1333 | 4GB, slow |
