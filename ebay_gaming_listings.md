@@ -1,17 +1,19 @@
 # Gaming RAM Listings
 
-20 listings, 44 sticks, $889.80 total. All tested on a RAM tester.
+20 listings, 45 sticks, $902.80 total. All tested on a RAM tester.
 Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 # Batch 1 - DDR3
 
-## G1. $62.99
+## G1. $75.99
 
-**Title (80 characters):** Lot of 5 8GB DDR3 1600 Gaming RAM 40GB Corsair Vengeance G.Skill HyperX Kingston
+**Title (75 characters):** Lot of 6 8GB DDR3 Gaming RAM 48GB 1600 1866 Corsair G.Skill HyperX Kingston
 
-**Description:** 5x 8GB DDR3-1600 desktop gaming RAM (40GB): Corsair Vengeance CMZ16GX3M2A1600C10 (CL10), Corsair Vengeance Pro CMY16GX3M2A1600C9R (CL9), G.Skill Ares F3-1600C9D-16GAR (CL9), HyperX Fury HX316C10FR/8 (CL10), Kingston HyperX Blu KHX1600C10D3B1/8G (CL10). Mixed brands, not a matched kit. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+**Description:** 6x 8GB DDR3 desktop gaming RAM (48GB): Corsair Vengeance CMZ16GX3M2A1600C10 (1600 CL10), Corsair Vengeance Pro CMY16GX3M2A1600C9R (1600 CL9), G.Skill Ares F3-1600C9D-16GAR (1600 CL9), HyperX Fury HX316C10FR/8 (1600 CL10), Kingston HyperX Blu KHX1600C10D3B1/8G (1600 CL10), G.Skill Ripjaws X F3-14900CL10D-16GBXL (1866 CL10). Mixed brands, not a matched kit; all run together at 1600. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
 
-*Pricing note (for you):* Base price (5 x $12.50). Option: add the 2x 4GB G.Skill Ripjaws X (F3-12800CL9D/CL9Q) to make a 48GB lot of 7 at ~$76.99 if they can't go back.
+*Pricing note (for you):* At base (5 x $12.50 + $13.00 = $75.50). The 1866 stick runs at 1600 alongside the others.
+
+# Batch 2 - DDR4 mixed
 
 ## G2. $34.99
 
@@ -169,7 +171,7 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* Base price.
 
-# Send back to supplier
+# Send back to supplier (21 sticks)
 
 | # | Stick | Size / speed | Reason |
 |---|---|---|---|
@@ -183,3 +185,7 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 | 8 | AMD Radeon Memory AP34G1869U1S | 4GB DDR3-1866 | 4GB |
 | 9 | G.Skill Ripjaws X F3-12800CL9D-8GBXL | 4GB DDR3-1600 | 4GB pair clears ~$2 |
 | 10 | G.Skill Ripjaws X F3-12800CL9Q-16GBXL | 4GB DDR3-1600 | 4GB pair clears ~$2 |
+| 11 | Edge Memory 42096-5 (8GE613604) x2 | DDR3 server RDIMM | Server DDR3 sells ~$4-5/stick; heavy heatspreader |
+| 12 | G.Skill Ripjaws X F3-14900CL9D-8GBXL x2 | 4GB DDR3-1866 | 4GB pair clears ~$1 |
+| 13 | Micron 8GB 2Rx4 PC3-10600R x4 | 8GB DDR3-1333 server RDIMM | Server DDR3 sells ~$4-5/stick; lot loses money |
+| 14 | Kingston HyperX Blu KHX1333C9D3B1K2/8G x3 | 4GB DDR3-1333 | 4GB, slow |
