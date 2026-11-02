@@ -1,6 +1,6 @@
 # Gaming RAM Listings
 
-31 listings, 72 sticks, $1,315.69 total. All tested on a RAM tester.
+37 listings, 84 sticks, $1,462.63 total. All tested on a RAM tester.
 Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 # Batch 1 - DDR3
@@ -269,7 +269,59 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* Base price. Some dust/residue on one heatspreader - wipe before photos.
 
-# Send back to supplier (43 sticks)
+# Batch 8 - DDR3 kits
+
+## G32. $24.99
+
+**Title (77 characters):** G.Skill Sniper 16GB (2x8GB) DDR3 1600 CL9 F3-1600C9D-16GSR Desktop RAM Tested
+
+**Description:** Matched kit F3-1600C9D-16GSR. 2x 8GB DDR3-1600 (PC3-12800) CL9-9-9-24, 1.5V, Intel XMP. Black/red Sniper heatspreaders. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+
+*Pricing note (for you):* Base price.
+
+## G33. $24.99
+
+**Title (79 characters):** Corsair Vengeance LP 16GB (2x8GB) DDR3 1600 CL10 CML16GX3M2A1600C10 Desktop RAM
+
+**Description:** Matched kit CML16GX3M2A1600C10. 2x 8GB DDR3-1600 10-10-10-27, 1.5V. Low-profile black heatspreaders. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+
+*Pricing note (for you):* Base price.
+
+## G34. $23.99
+
+**Title (78 characters):** Corsair XMS3 16GB (2x8GB) DDR3 1600 CL11 CMX16GX3M2A1600C11 Desktop RAM Tested
+
+**Description:** Matched kit CMX16GX3M2A1600C11. 2x 8GB DDR3-1600 11-11-11-30, 1.5V. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+
+*Pricing note (for you):* Slightly under base ($25): CL11 is the slowest DDR3-1600 timing.
+
+## G35. $25.99
+
+**Title (80 characters):** HyperX Fury Black 16GB (2x8GB) DDR3 1866 CL10 HX318C10FBK2/16 Desktop RAM Tested
+
+**Description:** Matched kit HX318C10FBK2/16 (kit of 2). 2x 8GB DDR3-1866 CL10, 1.5V. Black heatspreaders. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+
+*Pricing note (for you):* Base price (2 x $13).
+
+## G36. $21.99
+
+**Title (76 characters):** Corsair XMS3 16GB (2x8GB) DDR3 1333 CL9 CMX16GX3M2A1333C9 Desktop RAM Tested
+
+**Description:** Matched kit CMX16GX3M2A1333C9. 2x 8GB DDR3-1333 (PC3-10600) 9-9-9-24, 1.5V. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+
+*Pricing note (for you):* Below the 1600 base ($25): no gaming DDR3-1333 row, so compared against 1600; 1333 sells lower.
+
+# Batch 5 - DDR3 kits
+
+## G37. $24.99
+
+**Title (75 characters):** HyperX Fury Red 16GB (2x8GB) DDR3 1600 CL10 HX316C10FR/8 Desktop RAM Tested
+
+**Description:** 2x HX316C10FR/8 (same part number), 8GB DDR3-1600 CL10, 1.5V. Red heatspreaders. Sold new as single sticks; identical specs. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+
+*Pricing note (for you):* Third kit of the G23 listing: list G23 as quantity 3.
+
+# Send back to supplier (61 sticks)
 
 | # | Stick | Size / speed | Reason |
 |---|---|---|---|
@@ -297,3 +349,12 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 | 22 | Crucial Ballistix Sport BLS4G3D1609DS1S00 x2 | 4GB DDR3-1600 | 4GB |
 | 23 | HyperX Fury white HX316C10FWK2/8 x2 | 4GB DDR3-1600 | 4GB |
 | 24 | Crucial Ballistix Tactical BLT4G3D1337DT1TX0 x2 | 4GB DDR3-1333 | 4GB, slow |
+| 25 | Kingston KTH-PL313/8G (HP server) x2 | 8GB DDR3-1333 server RDIMM | Server DDR3 |
+| 26 | Kingston HyperX black KHX16C9B1BK2/8X x2 | 4GB DDR3-1600 | 4GB |
+| 27 | Kingston HyperX red KHX16C9B1RK2/8X x2 (extra) | 4GB DDR3-1600 | 4GB |
+| 28 | Kingston HyperX Genesis KHX1600C9D3K2/8GX x2 (extra) | 4GB DDR3-1600 | 4GB |
+| 29 | HyperX Fury black HX316C10FBK2/8 x2 | 4GB DDR3-1600 | 4GB |
+| 30 | HyperX Fury blue HX318C10FK2/8 x2 | 4GB DDR3-1866 | 4GB |
+| 31 | HyperX Limited Edition KHX1600C9D3X1K2/8GX x2 | 4GB DDR3-1600 | 4GB |
+| 32 | Crucial Ballistix BL12864TA1336 x2 | 1GB DDR3-1333 | 1GB |
+| 33 | Micron/HP MT36JSZF1G72PZ (500205-071) x2 | 8GB DDR3-1333 server RDIMM | Server DDR3 |
