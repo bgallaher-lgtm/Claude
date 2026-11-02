@@ -1,6 +1,6 @@
 # Gaming RAM Listings
 
-37 listings, 84 sticks, $1,462.63 total. All tested on a RAM tester.
+37 listings, 84 sticks, $1,512.63 total. All tested on a RAM tester.
 Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 # Batch 1 - DDR3
@@ -91,13 +91,13 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 # Batch 4 - DDR4 kits
 
-## G11. $139.99
+## G11. $189.99
 
 **Title (76 characters):** G.Skill Ripjaws V 32GB (2x16GB) DDR4 4000 CL18 F4-4000C18D-32GVK Desktop RAM
 
 **Description:** Matched kit (sequential serials), Oct 2021. DDR4-4000 CL18-22-22-42, 1.40V, Intel XMP 2.0. 2x16GB = 32GB. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
 
-*Pricing note (for you):* Above base: 16GB sticks at 4000MHz. Priced against the 3200 row.
+*Pricing note (for you):* Listed at $189.99 (owner's choice, testing a higher price; was $139.99). Above base: 16GB sticks at 4000MHz, priced against the 3200 row. If it sits, drop toward $139.99.
 
 ## G12. $49.99
 
