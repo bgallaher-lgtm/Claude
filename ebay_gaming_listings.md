@@ -1,6 +1,6 @@
 # Gaming RAM Listings
 
-37 listings, 87 sticks, $1,537.63 total. All tested on a RAM tester.
+37 listings, 84 sticks, $1,512.63 total. All tested on a RAM tester.
 Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 # Batch 1 - DDR3
@@ -139,13 +139,13 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* Base price.
 
-## G17. $49.99
+## G17. $24.99
 
-**Title (80 characters):** Crucial Ballistix Sport LT 16GB (4x4GB) DDR4 2400 BLS4G4D240FSB Gray Desktop RAM
+**Title (77 characters):** Crucial Ballistix Sport LT 8GB DDR4 2400 CL16 BLS8G4D240FSBK Gray Desktop RAM
 
-**Description:** 4x BLS4G4D240FSB (same part number), 4GB DDR4-2400 16-16-16-39, 1.2V, XMP. Gray digital camo. 16GB total. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+**Description:** 1x BLS8G4D240FSBK.8FBD, DDR4-2400 16-16-16-39, 1.2V, XMP. Gray digital camo. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
 
-*Pricing note (for you):* Base price (4 x $12.50). Same part as G16; 7 sticks total split 4 + 3.
+*Pricing note (for you):* Base price. Listed alone: an 8GB stick mixed with the G16 4GB sticks lowers the value of both.
 
 ## G18. $59.99
 
