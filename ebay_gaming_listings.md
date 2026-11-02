@@ -1,19 +1,17 @@
 # Gaming RAM Listings
 
-20 listings, 43 sticks, $876.80 total. All tested on a RAM tester.
+20 listings, 44 sticks, $889.80 total. All tested on a RAM tester.
 Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 # Batch 1 - DDR3
 
-## G1. $49.99
+## G1. $62.99
 
-**Title (75 characters):** Lot of 4 8GB DDR3 1600 Gaming RAM 32GB Corsair Vengeance Pro G.Skill HyperX
+**Title (80 characters):** Lot of 5 8GB DDR3 1600 Gaming RAM 40GB Corsair Vengeance G.Skill HyperX Kingston
 
-**Description:** 4x 8GB DDR3-1600 desktop gaming RAM (32GB): Corsair Vengeance CMZ16GX3M2A1600C10 (CL10), Corsair Vengeance Pro CMY16GX3M2A1600C9R (CL9), G.Skill Ares F3-1600C9D-16GAR (CL9), HyperX Fury HX316C10FR/8 (CL10). Mixed brands, not a matched kit. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+**Description:** 5x 8GB DDR3-1600 desktop gaming RAM (40GB): Corsair Vengeance CMZ16GX3M2A1600C10 (CL10), Corsair Vengeance Pro CMY16GX3M2A1600C9R (CL9), G.Skill Ares F3-1600C9D-16GAR (CL9), HyperX Fury HX316C10FR/8 (CL10), Kingston HyperX Blu KHX1600C10D3B1/8G (CL10). Mixed brands, not a matched kit. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
 
-*Pricing note (for you):* Base price. Option: add the 2x 4GB G.Skill Ripjaws X (F3-12800CL9D/CL9Q) to make a 40GB lot of 6 at ~$63.99 if they can't go back.
-
-# Batch 2 - DDR4 mixed
+*Pricing note (for you):* Base price (5 x $12.50). Option: add the 2x 4GB G.Skill Ripjaws X (F3-12800CL9D/CL9Q) to make a 48GB lot of 7 at ~$76.99 if they can't go back.
 
 ## G2. $34.99
 
