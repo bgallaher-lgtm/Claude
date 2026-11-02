@@ -1,6 +1,6 @@
 # Gaming RAM Listings
 
-27 listings, 61 sticks, $1,173.73 total. All tested on a RAM tester.
+31 listings, 72 sticks, $1,315.69 total. All tested on a RAM tester.
 Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 # Batch 1 - DDR3
@@ -230,6 +230,44 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 **Description:** 2x BLS8G3D169DS3.16FND, 8GB DDR3-1600 9-9-9-24, 1.5V, XMP. Blue heatspreaders. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
 
 *Pricing note (for you):* Base price.
+
+# Batch 7 - DDR3 kits
+
+## G28. $54.99
+
+**Title (77 characters):** Mushkin Blackline 32GB (4x8GB) DDR3L 1600 CL9 994110 1.35V Desktop RAM Tested
+
+**Description:** Matched 4-stick kit, Mushkin Blackline 994110. 4x 8GB DDR3L-1600 (PC3L-12800) 9-9-9-24, 1.35V low-voltage (also runs at 1.5V). Black heatspreaders. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+
+*Pricing note (for you):* A little above base ($50): full matched 32GB kit, CL9, low-voltage DDR3L.
+
+## G29. $36.99
+
+**Title (77 characters):** Mushkin Blackline 24GB (3x8GB) DDR3L 1600 CL9 994110 1.35V Desktop RAM Tested
+
+**Description:** 3x Mushkin Blackline 994110 (same part number), 8GB DDR3L-1600 (PC3L-12800) 9-9-9-24, 1.35V low-voltage (also runs at 1.5V). Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+
+*Pricing note (for you):* Base price (3 x $12.50 = $37.50). Remaining 3 of the 7 Mushkin sticks.
+
+# Batch 5 - DDR3 kits
+
+## G30. $24.99
+
+**Title (75 characters):** HyperX Fury Red 16GB (2x8GB) DDR3 1600 CL10 HX316C10FR/8 Desktop RAM Tested
+
+**Description:** 2x HX316C10FR/8 (same part number), 8GB DDR3-1600 CL10, 1.5V. Red heatspreaders. Sold new as single sticks; identical specs. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+
+*Pricing note (for you):* Second kit of the G23 listing: list G23 as quantity 2.
+
+# Batch 7 - DDR3 kits
+
+## G31. $24.99
+
+**Title (75 characters):** Patriot Viper 3 16GB (2x8GB) DDR3 1600 CL10 PV316G160C0KBL Blue Desktop RAM
+
+**Description:** Matched kit PV316G160C0KBL. 2x 8GB DDR3-1600 10-10-10-27, 1.5V. Blue Viper 3 heatspreaders. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+
+*Pricing note (for you):* Base price. Some dust/residue on one heatspreader - wipe before photos.
 
 # Send back to supplier (25 sticks)
 
