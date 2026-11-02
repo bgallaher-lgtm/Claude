@@ -197,7 +197,7 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* Base price (2 x $12.50).
 
-# Send back to supplier (21 sticks)
+# Send back to supplier (25 sticks)
 
 | # | Stick | Size / speed | Reason |
 |---|---|---|---|
@@ -215,3 +215,4 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 | 12 | G.Skill Ripjaws X F3-14900CL9D-8GBXL x2 | 4GB DDR3-1866 | 4GB pair clears ~$1 |
 | 13 | Micron 8GB 2Rx4 PC3-10600R x4 | 8GB DDR3-1333 server RDIMM | Server DDR3 sells ~$4-5/stick; lot loses money |
 | 14 | Kingston HyperX Blu KHX1333C9D3B1K2/8G x3 | 4GB DDR3-1333 | 4GB, slow |
+| 15 | Kingston HyperX Blu Red KHX16C9B1RK2/8 x4 | 4GB DDR3-1600 | 4GB; stained heatspreaders |
