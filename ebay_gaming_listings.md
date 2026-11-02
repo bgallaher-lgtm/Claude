@@ -1,6 +1,6 @@
 # Gaming RAM Listings
 
-20 listings, 45 sticks, $902.80 total. All tested on a RAM tester.
+23 listings, 51 sticks, $977.77 total. All tested on a RAM tester.
 Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 # Batch 1 - DDR3
@@ -170,6 +170,32 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 **Description:** Matched pair BLS4G4D240FSC.8FBD (sequential serials, assembled in US). DDR4-2400 16-16-16-39, 1.2V, XMP. White camo. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
 
 *Pricing note (for you):* Base price.
+
+# Batch 5 - DDR3 kits
+
+## G21. $24.99
+
+**Title (80 characters):** HyperX Fury Black 16GB (2x8GB) DDR3 1600 CL10 HX316C10FBK2/16 Desktop RAM Tested
+
+**Description:** Matched kit HX316C10FBK2/16 (kit of 2, same lot). 2x 8GB DDR3-1600 CL10, 1.5V. Black heatspreaders. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+
+*Pricing note (for you):* Base price (2 x $12.50). G21 and G22 are identical kits: list as ONE eBay listing with quantity 2.
+
+## G22. $24.99
+
+**Title (80 characters):** HyperX Fury Black 16GB (2x8GB) DDR3 1600 CL10 HX316C10FBK2/16 Desktop RAM Tested
+
+**Description:** Matched kit HX316C10FBK2/16 (kit of 2, same lot). 2x 8GB DDR3-1600 CL10, 1.5V. Black heatspreaders. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+
+*Pricing note (for you):* Second kit of the quantity-2 listing (see G21). Keep the original pairs together.
+
+## G23. $24.99
+
+**Title (75 characters):** HyperX Fury Red 16GB (2x8GB) DDR3 1600 CL10 HX316C10FR/8 Desktop RAM Tested
+
+**Description:** 2x HX316C10FR/8 (same part number), 8GB DDR3-1600 CL10, 1.5V. Red heatspreaders. Sold new as single sticks; identical specs. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+
+*Pricing note (for you):* Base price (2 x $12.50).
 
 # Send back to supplier (21 sticks)
 
