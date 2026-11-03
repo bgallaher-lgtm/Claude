@@ -175,17 +175,17 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 ## G21. $24.99
 
-**Title (80 characters):** HyperX Fury Black 16GB (2x8GB) DDR3 1600 CL10 HX316C10FBK2/16 Desktop RAM Tested
+**Title (77 characters):** HyperX Fury Black 16GB (2x8GB) DDR3 1600 CL10 HX316C10FB/8 Desktop RAM Tested
 
-**Description:** Matched kit HX316C10FBK2/16 (kit of 2, same lot). 2x 8GB DDR3-1600 CL10, 1.5V. Black heatspreaders. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+**Description:** 2x 8GB HyperX Fury Black DDR3-1600 CL10, 1.5V. Same Kingston module (99U5403-403) sold as HX316C10FB/8 single and HX316C10FBK2/16 kit; identical specs, not a factory-boxed kit. Black heatspreaders. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
 
-*Pricing note (for you):* Base price (2 x $12.50). G21 and G22 are identical kits: list as ONE eBay listing with quantity 2.
+*Pricing note (for you):* Base price (2 x $12.50). 4 sticks (3x HX316C10FB/8 + 1x from HX316C10FBK2/16, same module) = 2 pairs: ONE eBay listing, quantity 2.
 
 ## G22. $24.99
 
-**Title (80 characters):** HyperX Fury Black 16GB (2x8GB) DDR3 1600 CL10 HX316C10FBK2/16 Desktop RAM Tested
+**Title (77 characters):** HyperX Fury Black 16GB (2x8GB) DDR3 1600 CL10 HX316C10FB/8 Desktop RAM Tested
 
-**Description:** Matched kit HX316C10FBK2/16 (kit of 2, same lot). 2x 8GB DDR3-1600 CL10, 1.5V. Black heatspreaders. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+**Description:** 2x 8GB HyperX Fury Black DDR3-1600 CL10, 1.5V. Same Kingston module (99U5403-403) sold as HX316C10FB/8 single and HX316C10FBK2/16 kit; identical specs, not a factory-boxed kit. Black heatspreaders. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
 
 *Pricing note (for you):* Second kit of the quantity-2 listing (see G21). Keep the original pairs together.
 
