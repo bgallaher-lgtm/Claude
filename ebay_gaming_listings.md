@@ -341,7 +341,7 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* ECC Unbuffered, not gaming RAM; compared against the gaming DDR3-1600 row only for reference. Single stick, no heatspreader (light, ~$2.75 cost), keeps about $5 after fees and shipping.
 
-# Send back to supplier (69 sticks)
+# Send back to supplier (75 sticks)
 
 | # | Stick | Size / speed | Reason |
 |---|---|---|---|
@@ -379,3 +379,4 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 | 32 | Crucial Ballistix BL12864TA1336 x2 | 1GB DDR3-1333 | 1GB |
 | 33 | Micron/HP MT36JSZF1G72PZ (500205-071) x2 | 8GB DDR3-1333 server RDIMM | Server DDR3 |
 | 34 | SK hynix HMT31GR7BFR4C-H9 / HP 500205-071 x8 | 8GB DDR3-1333 server RDIMM | Server DDR3 sells ~$4-5/stick; heavy heatspreader |
+| 35 | Micron MT18JSF1G72PDZ-1G9N1KF x6 | 8GB DDR3-1866 server RDIMM (PC3-14900R) | Server DDR3; 6-stick lot ~$25-30 barely breaks even |
