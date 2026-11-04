@@ -4,7 +4,7 @@
 HP 96GB (6x16GB) DDR4-2400 ECC REG RDIMM 809081-081 805349-B21 Samsung Server
 
 **Alternate title (74 characters):**
-Lot of 6 HP 16GB 2Rx4 PC4-2400T-R RDIMM 809081-081 819411-001 M393A2G40EB1
+Lot of 6 HP 16GB 2Rx4 PC4-2400T-R RDIMM 809081-081 805349-B21 M393A2G40EB1
 
 **Price:** $375.00 | Free Shipping (6 sticks at $62.50 each)
 
@@ -20,8 +20,8 @@ Lot of 6 HP SmartMemory 16GB DDR4-2400 registered ECC server memory modules (96G
 - Rank: 2Rx4 (dual rank, x4)
 - Label: PC4-2400T-RA1
 - Samsung part number: M393A2G40EB1-CRC
-- HP part number: 809081-081
-- HP spare part number: 819411-001
+- HP part number: 809081-081 (on the HP label)
+- HP spare part number (commonly): 819411-001
 - HP option kit: 805349-B21
 
 **Compatibility**
@@ -41,4 +41,4 @@ All modules pulled from working systems and tested. Ships in anti-static packagi
 
 - Lowest OK price at 90% of the list: $337.50.
 - Price per stick comes from the server price ladder (16GB DDR4-2400 = half of the $125 32GB price).
-- The spare number 819411-001 is HP's standard spare for 809081-081; check one stick's HP label to confirm before using it in the title.
+- HP label confirmed: P/N 809081-081 (Security ID label, Samsung M393A2G40EB1 board). No spare number on the label, so 819411-001 stays out of the titles; it's listed in the description as "commonly" for search.
