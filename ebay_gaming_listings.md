@@ -331,7 +331,7 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* ON HOLD: owner keeping it for now, not listing yet. First DDR5: no DDR5 row on the price list yet. Starting price; check eBay sold listings for F5-6000J3636F16GX2-FX5 (or use eBay's suggested price, as with G11) before listing.
 
-# Send back to supplier (61 sticks)
+# Send back to supplier (69 sticks)
 
 | # | Stick | Size / speed | Reason |
 |---|---|---|---|
@@ -368,3 +368,4 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 | 31 | HyperX Limited Edition KHX1600C9D3X1K2/8GX x2 | 4GB DDR3-1600 | 4GB |
 | 32 | Crucial Ballistix BL12864TA1336 x2 | 1GB DDR3-1333 | 1GB |
 | 33 | Micron/HP MT36JSZF1G72PZ (500205-071) x2 | 8GB DDR3-1333 server RDIMM | Server DDR3 |
+| 34 | SK hynix HMT31GR7BFR4C-H9 / HP 500205-071 x8 | 8GB DDR3-1333 server RDIMM | Server DDR3 sells ~$4-5/stick; heavy heatspreader |
