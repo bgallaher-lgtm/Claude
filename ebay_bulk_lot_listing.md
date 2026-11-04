@@ -1,7 +1,9 @@
-# eBay Bulk Lot Listing: DDR3 RAM
+# eBay Bulk Lot Listing: DDR3 RAM (relisted as 33x 8GB, SOLD $229.99)
 
-**Title (75 characters):**
-Bulk Lot 71 DDR3 RAM Desktop & Laptop 4GB 8GB PC3-10600 PC3-12800 Tested
+**Title as relisted (from owner; full title not on file):**
+Lot 33x 8GB DDR3-1600 PC3-12800 RAM (relisted)
+
+**SOLD for $229.99 (asking price).** Relisted as 33 x 8GB DDR3-1600 only; the 4GB DDR3-1333/1600 sticks went back to the supplier. The breakdown below is the original 71-stick version.
 
 **Lot price:** $589.00 (71 sticks)
 
