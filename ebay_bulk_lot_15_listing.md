@@ -1,0 +1,42 @@
+# eBay Lot 15 Listing: 26x IBM / Hynix 8GB DDR3L-1333 VLP RDIMM
+
+**Title (80 characters):**
+Lot of 26 IBM 8GB PC3L-10600R VLP DDR3 ECC REG RDIMM 49Y1441 HMT41GV7BMR4A 208GB
+
+**Price:** $129.99 | Free Shipping (26 sticks, about $5.00 each)
+
+---
+
+## Description
+
+Lot of 26 IBM-labeled SK hynix 8GB DDR3L-1333 Very Low Profile (VLP) registered ECC server memory modules (208GB total). **Every module tested on a RAM tester.**
+
+**Module details**
+- Capacity: 8GB per module, 26 modules (208GB total)
+- Type: DDR3L-1333 (PC3L-10600R), Registered ECC RDIMM, 240-pin, Very Low Profile (VLP)
+- Rank / timing: 2Rx4, CL9
+- Voltage: 1.35V low-voltage (also runs at 1.5V)
+- SK hynix part number: HMT41GV7BMR4A-H9
+- IBM FRU: 49Y1441
+
+**Compatibility**
+- VLP height for blade servers, such as IBM BladeCenter HS22, HS22V and HS23.
+- Also works in standard servers that take DDR3 registered ECC memory.
+- Will NOT work in desktops or laptops.
+
+All modules pulled from working systems and tested. Ships in anti-static packaging.
+
+Need fewer? Message me and I can adjust the quantity and price.
+
+---
+
+## Notes for you (not for the listing)
+
+| Item | Qty | Each | Total |
+|---|---|---|---|
+| IBM / Hynix 8GB DDR3L-1333 VLP RDIMM (HMT41GV7BMR4A-H9) | 26 | $5.00 | $130.00 |
+
+- **Priced from sales, not the price list.** The Bulk Pricing tab has 8GB DDR3-1333 server at $11 (it matches desktop), which would make this lot $286. Your DDR3 server sales don't support that: Samsung 2x16GB DDR3 RDIMM kits sold 46 times at about $20 (~$10 per 16GB stick), and 4x16GB lots for $30-45. 8GB sticks sell for roughly $4-6.
+- Lowest OK price (90%): about $117. Turn on Best Offer.
+- Margin is thin: VLP heatspreaders are small but it's still ~1.4 lb (~$70 at $50/lb). Expect to keep about $25-30 after fees and shipping.
+- The IBM option number on the label is partly unreadable, so it's left out of the title; FRU 49Y1441 is clear.
