@@ -38,6 +38,6 @@ All modules pulled from working systems and tested. Ships in anti-static packagi
 | x 2 listings (quantity 2) | 36 | | $180.00 |
 
 - Lowest OK price (90%): $81.00.
-- 53 Dataram sticks total: this listing (2 x 18 = 36) plus Lot 17 (17 sticks).
+- 55 Dataram sticks total: this listing (2 x 18 = 36) plus Lot 17 (19 sticks).
 - Thin margin: about 1 lb (~$50 at $50/lb); expect to keep about $15-20 after fees and shipping.
 - Read the FRU sticker on a couple more sticks; the photo reads 82Y3841.
