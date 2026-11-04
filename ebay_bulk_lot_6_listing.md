@@ -1,7 +1,9 @@
-# eBay Bulk Lot 6 Listing: DDR4 Mixed (157 sticks)
+# eBay Bulk Lot 6 Listing: DDR4 Mixed (relisted as 173 sticks, SOLD $3,849.99)
 
-**Title (76 characters):**
-Lot 157x DDR4 RAM 1.16TB Laptop SODIMM Desktop 4GB 8GB 16GB 2133-3200 Tested
+**Title as relisted (from owner; full title not on file):**
+Lot 173x DDR4 RAM 1.25TB Laptop SODIMM Desktop DIMM (relisted)
+
+**SOLD for $3,849.99.** Relisted with 173 sticks (1.25TB). The itemized list below is the original 157-stick version; the 16 added sticks aren't recorded here.
 
 **Lot price:** $3,716.00 (157 sticks)
 
