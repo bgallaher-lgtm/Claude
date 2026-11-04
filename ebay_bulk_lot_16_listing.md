@@ -1,9 +1,9 @@
-# eBay Lot 16 Listing: 18x Dataram 8GB DDR3-1333 VLP RDIMM
+# eBay Lot 16 Listing: 18x Dataram 8GB DDR3-1333 VLP RDIMM (quantity 2)
 
 **Title (79 characters):**
 Lot of 18 Dataram 8GB PC3-10600R VLP DDR3 ECC REG RDIMM 64326 IBM 82Y3841 144GB
 
-**Price:** $89.99 | Free Shipping (18 sticks, $5.00 each)
+**Price:** $89.99 each | Free Shipping | **Quantity: 2** (each purchase = 18 sticks, $5.00 per stick)
 
 ---
 
@@ -26,7 +26,7 @@ Lot of 18 Dataram 8GB DDR3-1333 Very Low Profile (VLP) registered ECC server mem
 
 All modules pulled from working systems and tested. Ships in anti-static packaging.
 
-Need fewer? Message me and I can adjust the quantity and price.
+2 lots available; each purchase is one lot of 18 sticks (144GB). 18 sticks fills an IBM HS22V blade (18 DIMM slots). Need a different amount? Message me.
 
 ---
 
@@ -34,9 +34,10 @@ Need fewer? Message me and I can adjust the quantity and price.
 
 | Item | Qty | Each | Total |
 |---|---|---|---|
-| Dataram 64326 8GB DDR3-1333 VLP RDIMM | 18 | $5.00 | $90.00 |
+| Dataram 64326 8GB DDR3-1333 VLP RDIMM, per listing | 18 | $5.00 | $90.00 |
+| x 2 listings (quantity 2) | 36 | | $180.00 |
 
 - Lowest OK price (90%): $81.00.
-- Same buyer as Lot 15 (IBM blade servers). If Lot 15 isn't listed yet, you could combine them: 44 sticks, 352GB, about $220, one shipment.
+- 53 Dataram sticks total: this listing (2 x 18 = 36) plus Lot 17 (17 sticks).
 - Thin margin: about 1 lb (~$50 at $50/lb); expect to keep about $15-20 after fees and shipping.
 - Read the FRU sticker on a couple more sticks; the photo reads 82Y3841.
