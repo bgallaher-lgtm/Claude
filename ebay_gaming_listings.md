@@ -329,7 +329,7 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 **Description:** Matched kit F5-6000J3636F16GX2-FX5 (Dec 2023). 2x 16GB DDR5-6000 CL36-36-36-96, 1.35V, AMD EXPO. Low-profile black heatspreaders, no RGB. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
 
-*Pricing note (for you):* First DDR5: no DDR5 row on the price list yet. Starting price; check eBay sold listings for F5-6000J3636F16GX2-FX5 (or use eBay's suggested price, as with G11) before listing.
+*Pricing note (for you):* ON HOLD: owner keeping it for now, not listing yet. First DDR5: no DDR5 row on the price list yet. Starting price; check eBay sold listings for F5-6000J3636F16GX2-FX5 (or use eBay's suggested price, as with G11) before listing.
 
 # Send back to supplier (61 sticks)
 
