@@ -1,6 +1,6 @@
 # Gaming RAM Listings
 
-37 listings, 84 sticks, $1,512.63 total. All tested on a RAM tester.
+38 listings, 86 sticks, $1,632.62 total. All tested on a RAM tester.
 Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 # Batch 1 - DDR3
@@ -320,6 +320,16 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 **Description:** 2x HX316C10FR/8 (same part number), 8GB DDR3-1600 CL10, 1.5V. Red heatspreaders. Sold new as single sticks; identical specs. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
 
 *Pricing note (for you):* Third kit of the G23 listing: list G23 as quantity 3.
+
+# Batch 10 - DDR5
+
+## G38. $119.99
+
+**Title (77 characters):** G.Skill Flare X5 32GB (2x16GB) DDR5 6000 CL36 F5-6000J3636F16GX2-FX5 EXPO RAM
+
+**Description:** Matched kit F5-6000J3636F16GX2-FX5 (Dec 2023). 2x 16GB DDR5-6000 CL36-36-36-96, 1.35V, AMD EXPO. Low-profile black heatspreaders, no RGB. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+
+*Pricing note (for you):* First DDR5: no DDR5 row on the price list yet. Starting price; check eBay sold listings for F5-6000J3636F16GX2-FX5 (or use eBay's suggested price, as with G11) before listing.
 
 # Send back to supplier (61 sticks)
 
