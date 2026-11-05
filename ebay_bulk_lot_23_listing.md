@@ -5,7 +5,7 @@ Lot of 36 Edge Memory 16GB DDR3-1066 PC3-8500R ECC RDIMM Server RAM
 
 **Price:** $396.00 per lot of 36 ($11.00 per stick)
 
-**Status (from the Nov 5 active-listings export):** live on eBay as item 820277672970, listed Oct 25. The export shows **1 sold and 1 still available**, so it is a quantity listing and one lot of 36 has already sold. It is recorded at list price ($396) until you confirm the actual sale price.
+**Status (from the Nov 5 active-listings export):** live on eBay as item 820277672970, listed Oct 25. This listing started as sets of 2 sticks; one set of 2 sold for $22. The remaining 36 sticks were then put into this one lot to sell all at once. (That's why eBay shows 1 sold on the listing; the lot of 36 itself hasn't sold.)
 
 The full eBay description isn't on file (the listing was made on eBay before it was in the guide). The short version below is what the guide's "Copy description" button gives.
 
