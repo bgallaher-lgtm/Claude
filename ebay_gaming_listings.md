@@ -369,6 +369,14 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* Laptop kit, not gaming RAM. Priced under the bulk sheet ($115 for 2x 16GB 3200) to move quickly; the 16GB rows come from the 2x 8GB + $2.50 formula, not sales. Before listing, check eBay sold for "32GB 2x16GB DDR4 3200 SODIMM". Lowest offer to accept: $80.
 
+## G43. $44.99
+
+**Title (73 characters):** SK hynix 16GB DDR4 3200 PC4-25600 Laptop RAM SODIMM HMA82GS6CJR8N-XN 2Rx8
+
+**Description:** 1x SK hynix HMA82GS6CJR8N-XN: 16GB DDR4-3200 (PC4-3200AA) CL22 laptop SODIMM, 260-pin, non-ECC unbuffered, 1.2V, dual rank (2Rx8). Made 2021. Fits DDR4 laptops and mini PCs (Intel 8th gen and newer, AMD Ryzen); runs at 2666 or 2400 in older systems that don't support 3200. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+
+*Pricing note (for you):* Laptop stick, not gaming RAM. Priced under the bulk sheet ($57.50) to move quickly; check eBay sold for HMA82GS6CJR8N-XN before listing. Lowest offer to accept: $40.
+
 # Send back to supplier (75 sticks)
 
 | # | Stick | Size / speed | Reason |
