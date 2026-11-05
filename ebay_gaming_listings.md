@@ -363,7 +363,7 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 ## G42. $89.99
 
-**Title (76 characters):** ADATA 32GB (2x16GB) DDR4 3200 PC4-25600 Laptop RAM SODIMM AD4S320016G22-BGN
+**Title (75 characters):** ADATA 32GB (2x16GB) DDR4 3200 PC4-25600 Laptop RAM SODIMM AD4S320016G22-BGN
 
 **Description:** Matched pair of ADATA AD4S320016G22-BGN: 2x 16GB DDR4-3200 (PC4-25600) CL22 laptop SODIMM, 260-pin, non-ECC unbuffered, 1.2V. Single rank (16Gb x8 chips). Same production lot (20411007), 32GB total. Fits DDR4 laptops and mini PCs (Intel 8th gen and newer, AMD Ryzen); runs at 2666 or 2400 in older systems that don't support 3200. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
 
