@@ -3,7 +3,7 @@
 **Title (74 characters):**
 Lot of 8 IBM 16GB PC3L-12800R VLP DDR3 ECC REG RDIMM 46W0718 46W0716 128GB
 
-**Price:** $79.99 | Free Shipping (8 sticks, about $10.00 each)
+**Price:** $89.99 | Free Shipping (8 sticks, about $11.25 each). Raised from $79.99 on eBay (Nov 5 export).
 
 ---
 

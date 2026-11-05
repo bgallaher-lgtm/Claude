@@ -155,7 +155,7 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* Base price. One heatspreader is scuffed - show it.
 
-## G19. $47.99
+## G19. $59.99
 
 **Title (72 characters):** HyperX Fury 16GB (4x4GB) DDR4 2133 CL14 HX421C14FBK2/8 Black Desktop RAM
 
@@ -340,6 +340,24 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 **Description:** 1x Kingston ValueRAM 8GB DDR3-1600 (PC3-12800E) ECC Unbuffered UDIMM, 2Rx8, CL11, 1.5V. From kit KVR16E11K4/32 (single stick KVR16E11/8). For workstations, small servers and NAS (Dell PowerEdge T110/T20, HP MicroServer, Supermicro). NOT registered. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
 
 *Pricing note (for you):* ECC Unbuffered, not gaming RAM; compared against the gaming DDR3-1600 row only for reference. Single stick, no heatspreader (light, ~$2.75 cost), keeps about $5 after fees and shipping.
+
+# Batch 12 - Found on eBay (Nov 5 active-listings export)
+
+## G40. $34.99
+
+**Title (79 characters):** Corsair Vengeance Pro 16GB (2x8GB) DDR3 1866 CL9 Desktop RAM CMY16GX3M2A1866C9R
+
+**Description:** Matched kit CMY16GX3M2A1866C9R, 2x 8GB DDR3-1866 CL9, 1.5V, XMP. Red Vengeance Pro heatspreaders. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+
+*Pricing note (for you):* Already live on eBay (item 820247075829, listed Oct 16); added to the guide from the Nov 5 export.
+
+## G41. $18.99
+
+**Title (72 characters):** Corsair Vengeance 8GB 2x4GB DDR3-1600 Desktop RAM CMZ8GX3M2A1600C9 Black
+
+**Description:** Matched kit CMZ8GX3M2A1600C9, 2x 4GB DDR3-1600 CL9, 1.5V, XMP. Black Vengeance heatspreaders. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+
+*Pricing note (for you):* Already live on eBay (item 820266202746, listed Oct 22). 4GB DDR3 would normally go back to the supplier, but it is already listed, so let it run.
 
 # Send back to supplier (75 sticks)
 
