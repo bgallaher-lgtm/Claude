@@ -5,7 +5,7 @@ Lot of 103 DDR4 RAM Mixed 2GB 4GB 8GB 16GB Desktop Laptop 2133 2400 2666 3200
 
 **Price:** $2,367.00 (103 sticks, about $22.98 per stick). Full Bulk Pricing value with no discount, like Lot 22: see the `Lot 24 - DDR4 Mixed 103` tab.
 
-**Source:** the stick counts you entered on the Lot Calculator (uploaded Nov 6), plus your 2x 2GB DDR4-2133 laptop sticks.
+**Source:** the stick counts you entered on the Lot Calculator (uploaded Nov 6), plus your 2x 2GB DDR4-2133 laptop sticks. The 103 include the sticks identified from photos on Nov 5-6 (Corsair + Kingston 16GB 2400, HP 932817-672 x2, Samsung/Lenovo 01AG837, the Kingston KCP/KVR sticks, Lenovo SK hynix 8GB 3200 and the torn-label Crucial). Kept out and listed separately: G42 (ADATA 2x16GB 3200) and G43 (SK hynix 16GB 3200). The Corsair ValueSelect 4GB DDR3L stick goes back to the supplier.
 
 ---
 
