@@ -5,7 +5,7 @@ Lot of 56 DDR4 RAM Mixed 4GB 8GB 16GB Desktop Laptop 2133 2400 2666 3200
 
 **Price:** $1,290.00 (56 sticks). This is the full Bulk Pricing value with no discount: see the `Lot 22 - DDR4 Mixed 56` tab.
 
-**Status (from the Nov 5 active-listings export):** live on eBay as item 820320005745, listed Nov 5.
+**SOLD Nov 7, 2026 for $1,190.00** ($1,290 list less a $100 eBay order discount; the buyer, a repeat bulk buyer, bought 3 RAM items in one order). Was live as item 820320005745, listed Nov 5.
 
 ---
 
