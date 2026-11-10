@@ -381,13 +381,13 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 # Batch 14 - DDR3 4GB lot (trial)
 
-## G44. $49.99
+## G44. $54.99
 
-**Title (78 characters):** Lot of 24 4GB DDR3 1600 1333 Desktop Gaming RAM 96GB G.Skill Ripjaws X Corsair
+**Title (79 characters):** Lot of 28 4GB DDR3 1600 1333 Desktop Gaming RAM 112GB G.Skill Ripjaws X Corsair
 
-**Description:** 24x 4GB DDR3 desktop gaming RAM, 96GB total, all CL9, 1.5V. 22x DDR3-1600 (PC3-12800) CL9-9-9-24 with Intel XMP: 11x G.Skill Ripjaws X F3-12800CL9D-8GBXL (red), 5x Corsair Vengeance CMZ8GX3M2A1600C9 (black), 3x Corsair Vengeance CMZ8GX3M2A1600C9B (blue), 2x Corsair Vengeance Pro CMY8GX3M2A1600C9B (black/blue), 1x Corsair Vengeance CMZ4GX3M1A1600C9 (black). 2x DDR3-1333 (PC3-10600) CL9-9-9-24: G.Skill Ripjaws X F3-10666CL9D-8GBXL (red). Desktop 240-pin, non-ECC unbuffered. Mixed brands and speeds; sold as one lot. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
+**Description:** 28x 4GB DDR3 desktop gaming RAM, 112GB total, 1.5V. 26x DDR3-1600 (PC3-12800) with Intel XMP: 4x G.Skill Ripjaws X F3-12800CL8D-8GBXM (CL8-8-8-24, blue), 11x G.Skill Ripjaws X F3-12800CL9D-8GBXL (CL9, red), 5x Corsair Vengeance CMZ8GX3M2A1600C9 (CL9, black), 3x Corsair Vengeance CMZ8GX3M2A1600C9B (CL9, blue), 2x Corsair Vengeance Pro CMY8GX3M2A1600C9B (CL9, black/blue), 1x Corsair Vengeance CMZ4GX3M1A1600C9 (CL9, black). 2x DDR3-1333 (PC3-10600) CL9: G.Skill Ripjaws X F3-10666CL9D-8GBXL (red). Desktop 240-pin, non-ECC unbuffered. Mixed brands and speeds; sold as one lot. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
 
-*Pricing note (for you):* Trial: 4GB DDR3 normally goes back to the supplier. One lot of 24 at $49.99 (about $2.08 a stick). If it doesn't sell in about 2 weeks, send all 24 back. Take a group photo of all 24 before listing.
+*Pricing note (for you):* Trial: 4GB DDR3 normally goes back to the supplier. One lot of 28 at $54.99 (about $1.96 a stick); raised from $49.99 at 28 sticks for heavier shipping. If it doesn't sell in about 2 weeks, send all 28 back. Take a group photo of all 28 before listing.
 
 # Batch 15 - DDR3 kits (rebuilt from G1)
 
