@@ -13,6 +13,8 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* At base (5 x $12.50 + $13.00 = $75.50). The 1866 stick runs at 1600 alongside the others.
 
+**TAKEN DOWN Nov 10, 2026 (on hold, rebuilding).** Pull any stick that matches another set to make a pair, add good 8GB DDR3 singles, then relist as a new G1 lot. Update this list as sticks move.
+
 # Batch 2 - DDR4 mixed
 
 ## G2. $34.99
