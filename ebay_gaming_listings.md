@@ -453,7 +453,7 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* Trial: 4GB DDR3 normally goes back to the supplier. Single-brand lot of 15 at $34.99 (about $2.33 a stick), separate from the G44 mixed lot. If it doesn't sell in about 2 weeks, add these to G44 or send them back. Take a group photo of all 15.
 
-# Send back to supplier (85 sticks)
+# Send back to supplier (87 sticks)
 
 | # | Stick | Size / speed | Reason |
 |---|---|---|---|
@@ -499,3 +499,4 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 | 40 | Crucial Ballistix Sport BLS2G3D1339DS1S00 x2 | 2GB DDR3-1333 | 2GB; too small to list. Nov 10 |
 | 41 | Crucial Ballistix Sport BL25664BA1339 x2 | 2GB DDR3-1333 | 2GB; too small to list. Nov 10 |
 | 42 | Crucial CT102472AF667 / Micron MT36HTS1G72FY-667A1D4 x1 | 8GB DDR2-667 FB-DIMM (PC2-5300F) | Single old FB-DIMM; not worth listing alone. Nov 10 |
+| 43 | Kingston KTM5780/8G (IBM FRU 40T6602) x2 | 4GB DDR2-667 FB-DIMM (PC2-5300F) | 4GB FB-DIMM, IBM server; lowest value. Nov 10 |
