@@ -415,7 +415,7 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* A little above base ($25) for Vengeance Pro and CL9; under G40 ($34.99, the 1866 version). One stick came out of G1, three found Nov 10.
 
-# Send back to supplier (75 sticks)
+# Send back to supplier (77 sticks)
 
 | # | Stick | Size / speed | Reason |
 |---|---|---|---|
@@ -456,3 +456,4 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 | 35 | Micron MT18JSF1G72PDZ-1G9N1KF x2 | 8GB DDR3-1866 server RDIMM (PC3-14900R) | Server DDR3 |
 | 36 | SK hynix HMT41GR7AFR8C-PB x2 | 8GB DDR3-1600 server RDIMM (PC3-12800R) | Server DDR3 |
 | 37 | Micron MT18JSF1G72PDZ-1G6E1FE x2 | 8GB DDR3-1600 server RDIMM (PC3-12800R) | Server DDR3 |
+| 38 | Edge Memory 46372-1 (4GE533604) x2 | 4GB server (likely DDR2-667 FB-DIMM) | 4GB server; lowest value, heavy full-cover heatspreader. Nov 10 |
