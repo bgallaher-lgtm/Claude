@@ -381,13 +381,13 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 # Batch 14 - DDR3 4GB lot (trial)
 
-## G44. $29.99
+## G44. $39.99
 
-**Title (79 characters):** Lot of 11 G.Skill Ripjaws X 4GB DDR3 1600 PC3-12800 CL9 F3-12800CL9D-8GBXL 44GB
+**Title (76 characters):** Lot of 16 4GB DDR3 1600 PC3-12800 Desktop RAM 64GB G.Skill Ripjaws X Corsair
 
-**Description:** 11x G.Skill Ripjaws X 4GB DDR3-1600 (PC3-12800) CL9-9-9-24, 1.5V, Intel XMP, red heatspreaders. Part F3-12800CL9D-8GBXL (sold new as 2x 4GB kits); 5 pairs plus 1 extra, 44GB total. Desktop 240-pin, non-ECC unbuffered. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
+**Description:** 16x 4GB DDR3-1600 (PC3-12800) desktop gaming RAM, 64GB total, all CL9, 1.5V, Intel XMP: 11x G.Skill Ripjaws X F3-12800CL9D-8GBXL (CL9-9-9-24, red heatspreaders) and 5x Corsair Vengeance CMZ8GX3M2A1600C9 (CL9-9-9-24, black heatspreaders). Desktop 240-pin, non-ECC unbuffered. Mixed brands; sold as one lot. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
 
-*Pricing note (for you):* Trial: 4GB DDR3 normally goes back to the supplier. One lot of 11 at $29.99 (about $2.73 a stick) to see if it sells. If it doesn't sell in about 2 weeks, send all 11 back.
+*Pricing note (for you):* Trial: 4GB DDR3 normally goes back to the supplier. One lot of 16 at $39.99 (about $2.50 a stick). Nov 10: 5 Corsair Vengeance 4GB added to the 11 G.Skill. If it doesn't sell in about 2 weeks, send all 16 back. Take a group photo of all 16 before listing.
 
 # Batch 15 - DDR3 kits (rebuilt from G1)
 
