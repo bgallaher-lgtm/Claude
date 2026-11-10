@@ -431,6 +431,14 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* Base price (3 x $12.50 = $37.50), same as G10/G16 (3x4GB DDR4-2400, $36.99). One stick came out of G8, two found Nov 10. Take photos of just these 3 before posting.
 
+## G51. $24.99
+
+**Title (79 characters):** Patriot Viper Elite 8GB (2x4GB) DDR4 2400 CL16 PVE44G240C6GY Desktop RAM Tested
+
+**Description:** 2x PVE44G240C6GY, 4GB DDR4-2400 CL16, 1.2V. Same part number on both. Gray Patriot Viper Elite heatspreaders. 8GB total. Desktop 288-pin, non-ECC unbuffered. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+
+*Pricing note (for you):* Base price (2 x $12.50). Same part as G9 (4x, sold $45) and G10 (3x, sold $36.99). Found Nov 10.
+
 # Send back to supplier (84 sticks)
 
 | # | Stick | Size / speed | Reason |
