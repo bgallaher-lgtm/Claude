@@ -445,6 +445,14 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* Base price (2 x $25). Comps: G14 Corsair LPX 2x8GB DDR4-2400 and G12 Ballistix 4x4GB 2400 both sold at $49.99. Found Nov 10.
 
+## G53. $34.99
+
+**Title (78 characters):** Lot of 15 Crucial Ballistix Sport 4GB DDR3 1600 BLS4G3D1609DS1S00 Desktop 60GB
+
+**Description:** 15x Crucial Ballistix Sport BLS4G3D1609DS1S00, 4GB DDR3-1600 (PC3-12800) CL9-9-9-24, 1.5V, Intel XMP, black heatspreaders. Same part number on all 15. 60GB total. Desktop 240-pin, non-ECC unbuffered. Sold as one lot. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
+
+*Pricing note (for you):* Trial: 4GB DDR3 normally goes back to the supplier. Single-brand lot of 15 at $34.99 (about $2.33 a stick), separate from the G44 mixed lot. If it doesn't sell in about 2 weeks, add these to G44 or send them back. Take a group photo of all 15.
+
 # Send back to supplier (85 sticks)
 
 | # | Stick | Size / speed | Reason |
