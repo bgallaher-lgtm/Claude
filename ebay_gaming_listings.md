@@ -381,13 +381,13 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 # Batch 14 - DDR3 4GB lot (trial)
 
-## G44. $44.99
+## G44. $49.99
 
-**Title (76 characters):** Lot of 19 4GB DDR3 1600 PC3-12800 Desktop RAM 76GB G.Skill Ripjaws X Corsair
+**Title (76 characters):** Lot of 21 4GB DDR3 1600 PC3-12800 Desktop RAM 84GB G.Skill Ripjaws X Corsair
 
-**Description:** 19x 4GB DDR3-1600 (PC3-12800) desktop gaming RAM, 76GB total, all CL9, 1.5V, Intel XMP: 11x G.Skill Ripjaws X F3-12800CL9D-8GBXL (CL9-9-9-24, red heatspreaders), 5x Corsair Vengeance CMZ8GX3M2A1600C9 (CL9-9-9-24, black heatspreaders) and 3x Corsair Vengeance CMZ8GX3M2A1600C9B (CL9-9-9-24, blue heatspreaders). Desktop 240-pin, non-ECC unbuffered. Mixed brands; sold as one lot. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
+**Description:** 21x 4GB DDR3-1600 (PC3-12800) desktop gaming RAM, 84GB total, all CL9, 1.5V, Intel XMP: 11x G.Skill Ripjaws X F3-12800CL9D-8GBXL (CL9-9-9-24, red heatspreaders), 5x Corsair Vengeance CMZ8GX3M2A1600C9 (CL9-9-9-24, black heatspreaders), 3x Corsair Vengeance CMZ8GX3M2A1600C9B (CL9-9-9-24, blue heatspreaders) and 2x Corsair Vengeance Pro CMY8GX3M2A1600C9B (CL9-9-9-24, black/blue heatspreaders). Desktop 240-pin, non-ECC unbuffered. Mixed brands; sold as one lot. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
 
-*Pricing note (for you):* Trial: 4GB DDR3 normally goes back to the supplier. One lot of 19 at $44.99 (about $2.37 a stick). Nov 10: 5 black + 3 blue Corsair Vengeance 4GB added to the 11 G.Skill. If it doesn't sell in about 2 weeks, send all 19 back. Take a group photo of all 19 before listing.
+*Pricing note (for you):* Trial: 4GB DDR3 normally goes back to the supplier. One lot of 21 at $49.99 (about $2.38 a stick). Nov 10: 5 black + 3 blue Corsair Vengeance and 2 Corsair Vengeance Pro blue 4GB added to the 11 G.Skill. If it doesn't sell in about 2 weeks, send all 21 back. Take a group photo of all 21 before listing.
 
 # Batch 15 - DDR3 kits (rebuilt from G1)
 
