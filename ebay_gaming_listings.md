@@ -381,13 +381,13 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 # Batch 14 - DDR3 4GB lot (trial)
 
-## G44. $54.99
+## G44. $59.99
 
-**Title (79 characters):** Lot of 28 4GB DDR3 1600 1333 Desktop Gaming RAM 112GB G.Skill Ripjaws X Corsair
+**Title (77 characters):** Lot of 30 4GB DDR3 1600 1333 Desktop Gaming RAM 120GB G.Skill Ripjaws Corsair
 
-**Description:** 28x 4GB DDR3 desktop gaming RAM, 112GB total, 1.5V. 26x DDR3-1600 (PC3-12800) with Intel XMP: 4x G.Skill Ripjaws X F3-12800CL8D-8GBXM (CL8-8-8-24, blue), 11x G.Skill Ripjaws X F3-12800CL9D-8GBXL (CL9, red), 5x Corsair Vengeance CMZ8GX3M2A1600C9 (CL9, black), 3x Corsair Vengeance CMZ8GX3M2A1600C9B (CL9, blue), 2x Corsair Vengeance Pro CMY8GX3M2A1600C9B (CL9, black/blue), 1x Corsair Vengeance CMZ4GX3M1A1600C9 (CL9, black). 2x DDR3-1333 (PC3-10600) CL9: G.Skill Ripjaws X F3-10666CL9D-8GBXL (red). Desktop 240-pin, non-ECC unbuffered. Mixed brands and speeds; sold as one lot. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
+**Description:** 30x 4GB DDR3 desktop gaming RAM, 120GB total, 1.5V. 26x DDR3-1600 (PC3-12800) with Intel XMP: 4x G.Skill Ripjaws X F3-12800CL8D-8GBXM (CL8-8-8-24, blue), 11x G.Skill Ripjaws X F3-12800CL9D-8GBXL (CL9, red), 5x Corsair Vengeance CMZ8GX3M2A1600C9 (CL9, black), 3x Corsair Vengeance CMZ8GX3M2A1600C9B (CL9, blue), 2x Corsair Vengeance Pro CMY8GX3M2A1600C9B (CL9, black/blue), 1x Corsair Vengeance CMZ4GX3M1A1600C9 (CL9, black). 4x DDR3-1333 (PC3-10600) CL9: 2x G.Skill Ripjaws X F3-10666CL9D-8GBXL (red), 2x G.Skill Ripjaws F3-10666CL9D-8GBRL (red). Desktop 240-pin, non-ECC unbuffered. Mixed brands and speeds; sold as one lot. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
 
-*Pricing note (for you):* Trial: 4GB DDR3 normally goes back to the supplier. One lot of 28 at $54.99 (about $1.96 a stick); raised from $49.99 at 28 sticks for heavier shipping. If it doesn't sell in about 2 weeks, send all 28 back. Take a group photo of all 28 before listing.
+*Pricing note (for you):* Trial: 4GB DDR3 normally goes back to the supplier. One lot of 30 at $59.99 (about $2.00 a stick); price raised as the lot grew, for heavier shipping (~2.5 lb). If it doesn't sell in about 2 weeks, send all 30 back. Take a group photo of all 30 before listing.
 
 # Batch 15 - DDR3 kits (rebuilt from G1)
 
@@ -437,7 +437,7 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 | 16 | HyperX Fury blue HX316C10FK2/8 x2 | 4GB DDR3-1600 | 4GB |
 | 17 | Kingston HyperX Blu KHX1600C9D3B1K2/8GX x2 | 4GB DDR3-1600 | 4GB |
 | 18 | Kingston HyperX red KHX16C9B1RK2/8X x2 | 4GB DDR3-1600 | 4GB |
-| 19 | G.Skill Ripjaws F3-10666CL9D-8GBRL x2 | 4GB DDR3-1333 | 4GB, slow |
+| 19 | G.Skill Ripjaws F3-10666CL9D-8GBRL x2 | 4GB DDR3-1333 | 4GB, slow. Nov 10: 2 more found, added to G44 first |
 | 20 | Corsair Vengeance CMZ16GX3M4X1600C9G x2 | 4GB DDR3-1600 | 4GB |
 | 21 | Kingston HyperX Genesis KHX1600C9D3K2/8GX x2 | 4GB DDR3-1600 | 4GB |
 | 22 | Crucial Ballistix Sport BLS4G3D1609DS1S00 x2 | 4GB DDR3-1600 | 4GB |
