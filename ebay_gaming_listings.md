@@ -425,7 +425,7 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* Comp: Corsair XMS2 4GB (2x2GB) DDR2-800 sold Oct 9 for $12.99. Use the cheapest shipping; nets about $5-6.
 
-# Send back to supplier (82 sticks)
+# Send back to supplier (84 sticks)
 
 | # | Stick | Size / speed | Reason |
 |---|---|---|---|
@@ -469,3 +469,4 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 | 38 | Edge Memory 46372-1 (4GE533604) x2 | 4GB server (likely DDR2-667 FB-DIMM) | 4GB server; lowest value, heavy full-cover heatspreader. Nov 10 |
 | 39 | Micron 8GB 2Rx4 PC3-10600R (537R label) x3 | 8GB DDR3-1333 server RDIMM | Server DDR3 ~$5/stick; standard height, not VLP. Nov 10 |
 | 40 | Crucial Ballistix Sport BLS2G3D1339DS1S00 x2 | 2GB DDR3-1333 | 2GB; too small to list. Nov 10 |
+| 41 | Crucial Ballistix Sport BL25664BA1339 x2 | 2GB DDR3-1333 | 2GB; too small to list. Nov 10 |
