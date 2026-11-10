@@ -423,13 +423,13 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 # Batch 17 - DDR4 singles
 
-## G50. $12.99 (count to update)
+## G50. $36.99
 
-**Title (76 characters):** G.Skill Ripjaws V 4GB DDR4 2400 CL15 F4-2400C15D-8GVR Red Desktop RAM Tested
+**Title (78 characters):** G.Skill Ripjaws V 12GB (3x4GB) DDR4 2400 CL15 F4-2400C15D-8GVR Red Desktop RAM
 
-**Description:** 1x G.Skill Ripjaws V F4-2400C15D-8GVR (from the 2x4GB kit), 4GB DDR4-2400 (PC4-19200) CL15-15-15-35, 1.2V, Intel XMP 2.0, red heatspreader. Desktop 288-pin, non-ECC unbuffered. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+**Description:** 3x G.Skill Ripjaws V F4-2400C15D-8GVR (from 2x4GB kits), 4GB DDR4-2400 (PC4-19200) CL15-15-15-35, 1.2V, Intel XMP 2.0, red heatspreaders. Same part number on all three. 12GB total. Desktop 288-pin, non-ECC unbuffered. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
 
-*Pricing note (for you):* Nov 10: moved out of G8. More of these are coming; update the count, title and price when they come in (2 sticks = 8GB (2x4GB) kit at about $24.99).
+*Pricing note (for you):* Base price (3 x $12.50 = $37.50), same as G10/G16 (3x4GB DDR4-2400, $36.99). One stick came out of G8, two found Nov 10. Take photos of just these 3 before posting.
 
 # Send back to supplier (84 sticks)
 
