@@ -453,6 +453,14 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* Trial: 4GB DDR3 normally goes back to the supplier. Single-brand lot of 15 at $34.99 (about $2.33 a stick), separate from the G44 mixed lot. If it doesn't sell in about 2 weeks, add these to G44 or send them back. Take a group photo of all 15.
 
+## G54. $22.99
+
+**Title (80 characters):** Patriot Viper 16GB (2x8GB) DDR3L 1600 CL9 Laptop SODIMM RAM PV316G160LC9SK 1.35V
+
+**Description:** Matched kit Patriot Viper PV316G160LC9SK (same lot PE309-011026). 2x 8GB DDR3L-1600 (PC3L-12800) CL9-9-9-24, 1.35V low-voltage (also runs at 1.5V), black heatspreaders. 16GB total. Laptop SODIMM, 204-pin, non-ECC. Fits DDR3/DDR3L laptops and mini PCs (Intel 3rd-5th gen and similar). Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+
+*Pricing note (for you):* Laptop kit. Base $22 (2 x $11, DDR3-1600 laptop row). Comp: Samsung 2x8GB DDR3L-1600 desktop (bare) sold 4x at $19.99 in Oct. If more pairs turn up, make it a quantity listing.
+
 # Send back to supplier (87 sticks)
 
 | # | Stick | Size / speed | Reason |
