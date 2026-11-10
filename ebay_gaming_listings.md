@@ -243,15 +243,13 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* A little above base ($50): full matched 32GB kit, CL9, low-voltage DDR3L.
 
-## G29. $36.99
+## G29. $54.99
 
-**Title (77 characters):** Mushkin Blackline 24GB (3x8GB) DDR3L 1600 CL9 994110 1.35V Desktop RAM Tested
+**Title (77 characters):** Mushkin Blackline 32GB (4x8GB) DDR3L 1600 CL9 994110 1.35V Desktop RAM Tested
 
-**Description:** 3x Mushkin Blackline 994110 (same part number), 8GB DDR3L-1600 (PC3L-12800) 9-9-9-24, 1.35V low-voltage (also runs at 1.5V). Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+**Description:** 4x Mushkin Blackline 994110 (same part number), 8GB DDR3L-1600 (PC3L-12800) 9-9-9-24, 1.35V low-voltage (also runs at 1.5V). Black heatspreaders. 32GB total. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
 
-*Pricing note (for you):* Base price (3 x $12.50 = $37.50). Remaining 3 of the 7 Mushkin sticks.
-
-# Batch 5 - DDR3 kits
+*Pricing note (for you):* Nov 10: 4th Mushkin 994110 stick found, so G29 is now a full 32GB (4x8GB) set at $54.99, the price G28 (same 4x8GB setup) sold for. Was 3 sticks (24GB) at $36.99. Edit the live eBay listing: title, price, description and add a photo showing all 4.
 
 ## G30. $24.99
 
