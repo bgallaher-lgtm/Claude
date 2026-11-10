@@ -377,6 +377,16 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* Laptop stick, not gaming RAM. Priced under the bulk sheet ($57.50) to move quickly; check eBay sold for HMA82GS6CJR8N-XN before listing. Lowest offer to accept: $40.
 
+# Batch 14 - DDR3 4GB lot (trial)
+
+## G44. $29.99
+
+**Title (79 characters):** Lot of 11 G.Skill Ripjaws X 4GB DDR3 1600 PC3-12800 CL9 F3-12800CL9D-8GBXL 44GB
+
+**Description:** 11x G.Skill Ripjaws X 4GB DDR3-1600 (PC3-12800) CL9-9-9-24, 1.5V, Intel XMP, red heatspreaders. Part F3-12800CL9D-8GBXL (sold new as 2x 4GB kits); 5 pairs plus 1 extra, 44GB total. Desktop 240-pin, non-ECC unbuffered. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
+
+*Pricing note (for you):* Trial: 4GB DDR3 normally goes back to the supplier. One lot of 11 at $29.99 (about $2.73 a stick) to see if it sells. If it doesn't sell in about 2 weeks, send all 11 back.
+
 # Send back to supplier (75 sticks)
 
 | # | Stick | Size / speed | Reason |
@@ -389,7 +399,7 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 | 6 | Kingston HyperX Blu KHX13C9B1/4R | 4GB DDR3-1333 | 4GB, slow |
 | 7 | Kingston HyperX Genesis KHX1600C9AD3K2/4G | 2GB DDR3-1600 | 2GB |
 | 8 | AMD Radeon Memory AP34G1869U1S | 4GB DDR3-1866 | 4GB |
-| 9 | G.Skill Ripjaws X F3-12800CL9D-8GBXL | 4GB DDR3-1600 | 4GB pair clears ~$2 |
+| 9 | G.Skill Ripjaws X F3-12800CL9D-8GBXL | 4GB DDR3-1600 | 4GB pair clears ~$2. Nov 10: 11 more found, listed as G44 first; send back if unsold |
 | 10 | G.Skill Ripjaws X F3-12800CL9Q-16GBXL | 4GB DDR3-1600 | 4GB pair clears ~$2 |
 | 11 | Edge Memory 42096-5 (8GE613604) x2 | DDR3 server RDIMM | Server DDR3 sells ~$4-5/stick; heavy heatspreader |
 | 12 | G.Skill Ripjaws X F3-14900CL9D-8GBXL x2 | 4GB DDR3-1866 | 4GB pair clears ~$1 |
