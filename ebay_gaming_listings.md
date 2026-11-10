@@ -65,15 +65,13 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* Below base: budget brand, chipped paint on heatspreader edges - show it. Priced on the 3200 row.
 
-## G8. $24.99
+## G8. $38.99
 
-**Title (74 characters):** 8GB (2x4GB) DDR4 Gaming RAM Corsair Vengeance LPX G.Skill Ripjaws V Tested
+**Title (80 characters):** Corsair Vengeance LPX 12GB (3x4GB) DDR4 2666 CL16 CMK16GX4M4A2666C16 Desktop RAM
 
-**Description:** 2x 4GB: Corsair Vengeance LPX CMK16GX4M4A2666C16 (DDR4-2666 CL16) and G.Skill Ripjaws V F4-2400C15D-8GVR (DDR4-2400 CL15). Different brands; run together at 2400. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+**Description:** 3x Corsair Vengeance LPX CMK16GX4M4A2666C16 (from the 4x4GB kit), 4GB DDR4-2666 (PC4-21300) CL16-18-18-36, 1.2V, Intel XMP 2.0, black low-profile heatspreaders. Same part number on all three. 12GB total. Desktop 288-pin, non-ECC unbuffered. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
 
-*Pricing note (for you):* Base price. As singles each would clear only ~$3.
-
-# Batch 3 - Patriot
+*Pricing note (for you):* Nov 10: REBUILT. Was "8GB (2x4GB) DDR4 Gaming RAM Corsair Vengeance LPX G.Skill Ripjaws V" at $24.99. 2 more Corsair found, so G8 is now 3x Corsair Vengeance LPX 2666; the G.Skill Ripjaws V moved to G50. Base 3 x $13.50 = $40.50; priced at $38.99, near G10/G16 (3x4GB DDR4-2400, $36.99). Edit the live listing: title, price, description, photos.
 
 ## G9. $49.99
 
@@ -422,6 +420,16 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 **Description:** 2x 2GB DDR2-800 (PC2-6400) CL5-5-5-12, 1.8V desktop RAM: 1x Crucial Ballistix Sport BLS2G2D80EBS1S00 and 1x Crucial Ballistix BL25664AA80E. Two different Ballistix part numbers with the same speed, timings and voltage; they run together as a 4GB kit. Desktop 240-pin DDR2, non-ECC unbuffered. For older Core 2 / AM2 / AM3 DDR2 systems; will NOT fit DDR3 or DDR4 boards. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
 
 *Pricing note (for you):* Comp: Corsair XMS2 4GB (2x2GB) DDR2-800 sold Oct 9 for $12.99. Use the cheapest shipping; nets about $5-6.
+
+# Batch 17 - DDR4 singles
+
+## G50. $12.99 (count to update)
+
+**Title (76 characters):** G.Skill Ripjaws V 4GB DDR4 2400 CL15 F4-2400C15D-8GVR Red Desktop RAM Tested
+
+**Description:** 1x G.Skill Ripjaws V F4-2400C15D-8GVR (from the 2x4GB kit), 4GB DDR4-2400 (PC4-19200) CL15-15-15-35, 1.2V, Intel XMP 2.0, red heatspreader. Desktop 288-pin, non-ECC unbuffered. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+
+*Pricing note (for you):* Nov 10: moved out of G8. More of these are coming; update the count, title and price when they come in (2 sticks = 8GB (2x4GB) kit at about $24.99).
 
 # Send back to supplier (84 sticks)
 
