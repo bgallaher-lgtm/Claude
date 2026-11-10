@@ -447,7 +447,7 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* Base price (2 x $25). Comps: G14 Corsair LPX 2x8GB DDR4-2400 and G12 Ballistix 4x4GB 2400 both sold at $49.99. Found Nov 10.
 
-# Send back to supplier (84 sticks)
+# Send back to supplier (85 sticks)
 
 | # | Stick | Size / speed | Reason |
 |---|---|---|---|
@@ -492,3 +492,4 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 | 39 | Micron 8GB 2Rx4 PC3-10600R (537R label) x3 | 8GB DDR3-1333 server RDIMM | Server DDR3 ~$5/stick; standard height, not VLP. Nov 10 |
 | 40 | Crucial Ballistix Sport BLS2G3D1339DS1S00 x2 | 2GB DDR3-1333 | 2GB; too small to list. Nov 10 |
 | 41 | Crucial Ballistix Sport BL25664BA1339 x2 | 2GB DDR3-1333 | 2GB; too small to list. Nov 10 |
+| 42 | Crucial CT102472AF667 / Micron MT36HTS1G72FY-667A1D4 x1 | 8GB DDR2-667 FB-DIMM (PC2-5300F) | Single old FB-DIMM; not worth listing alone. Nov 10 |
