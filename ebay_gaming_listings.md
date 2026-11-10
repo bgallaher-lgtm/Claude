@@ -13,7 +13,7 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* At base (5 x $12.50 + $13.00 = $75.50). The 1866 stick runs at 1600 alongside the others.
 
-**TAKEN DOWN Nov 10, 2026 (on hold, rebuilding).** **Nov 10 update:** the G.Skill Ripjaws X F3-14900CL10D-16GBXL (1866) stick moved to G45. G1 is now 5x 8GB DDR3-1600 (Corsair Vengeance CMZ16GX3M2A1600C10, Corsair Vengeance Pro CMY16GX3M2A1600C9R, G.Skill Ares F3-1600C9D-16GAR, HyperX Fury HX316C10FR/8, Kingston HyperX Blu KHX1600C10D3B1/8G), working title "Lot of 5 8GB DDR3 1600 Gaming RAM 40GB Corsair G.Skill HyperX Kingston Desktop" at $62.99. Retake photos before relisting (the old photos include the 1866 stick). **Nov 10, later:** the G.Skill Ares F3-1600C9D-16GAR stick moved to G46. G1 is now 4x 8GB DDR3-1600 (Corsair Vengeance CMZ16GX3M2A1600C10, Corsair Vengeance Pro CMY16GX3M2A1600C9R, HyperX Fury HX316C10FR/8, Kingston HyperX Blu KHX1600C10D3B1/8G), working title "Lot of 4 8GB DDR3 1600 Gaming RAM 32GB Corsair Vengeance HyperX Fury Kingston" at $49.99. Pull any stick that matches another set to make a pair, add good 8GB DDR3 singles, then relist as a new G1 lot. Update this list as sticks move.
+**TAKEN DOWN Nov 10, 2026 (on hold, rebuilding).** **Nov 10 update:** the G.Skill Ripjaws X F3-14900CL10D-16GBXL (1866) stick moved to G45. G1 is now 5x 8GB DDR3-1600 (Corsair Vengeance CMZ16GX3M2A1600C10, Corsair Vengeance Pro CMY16GX3M2A1600C9R, G.Skill Ares F3-1600C9D-16GAR, HyperX Fury HX316C10FR/8, Kingston HyperX Blu KHX1600C10D3B1/8G), working title "Lot of 5 8GB DDR3 1600 Gaming RAM 40GB Corsair G.Skill HyperX Kingston Desktop" at $62.99. Retake photos before relisting (the old photos include the 1866 stick). **Nov 10, later:** the G.Skill Ares F3-1600C9D-16GAR stick moved to G46. G1 is now 4x 8GB DDR3-1600 (Corsair Vengeance CMZ16GX3M2A1600C10, Corsair Vengeance Pro CMY16GX3M2A1600C9R, HyperX Fury HX316C10FR/8, Kingston HyperX Blu KHX1600C10D3B1/8G), working title "Lot of 4 8GB DDR3 1600 Gaming RAM 32GB Corsair Vengeance HyperX Fury Kingston" at $49.99. **Nov 10, later still:** the Corsair Vengeance Pro CMY16GX3M2A1600C9R stick moved to G47/G48. G1 is now 3x 8GB DDR3-1600 (Corsair Vengeance CMZ16GX3M2A1600C10, HyperX Fury HX316C10FR/8, Kingston HyperX Blu KHX1600C10D3B1/8G), working title "Lot of 3 8GB DDR3 1600 Gaming RAM 24GB Corsair Vengeance HyperX Fury Blu Tested" at $36.99. Pull any stick that matches another set to make a pair, add good 8GB DDR3 singles, then relist as a new G1 lot. Update this list as sticks move.
 
 # Batch 2 - DDR4 mixed
 
@@ -406,6 +406,14 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 **Description:** 2x G.Skill Ares F3-1600C9D-16GAR, 8GB DDR3-1600 (PC3-12800) CL9-9-9-24, 1.5V, Intel XMP, low-profile red heatspreaders. Same part number on both; not from the same retail kit. 16GB total. Desktop 240-pin, non-ECC unbuffered. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
 
 *Pricing note (for you):* Base price (2 x $12.50), same as G27 and G32. One stick came out of G1, the other was found Nov 10.
+
+## G47 + G48. $27.99 each (one listing, quantity 2)
+
+**Title (79 characters):** Corsair Vengeance Pro 16GB (2x8GB) DDR3 1600 CL9 CMY16GX3M2A1600C9R Red Desktop
+
+**Description:** Corsair Vengeance Pro CMY16GX3M2A1600C9R: 2x 8GB DDR3-1600 (PC3-12800) CL9-9-9-24, 1.5V, Intel XMP, black heatspreaders with red trim. Same part number on both sticks. 16GB total per kit. Desktop 240-pin, non-ECC unbuffered. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging. 2 kits available; each purchase is one 2-stick kit.
+
+*Pricing note (for you):* A little above base ($25) for Vengeance Pro and CL9; under G40 ($34.99, the 1866 version). One stick came out of G1, three found Nov 10.
 
 # Send back to supplier (75 sticks)
 
