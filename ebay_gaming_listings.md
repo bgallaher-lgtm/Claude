@@ -383,11 +383,11 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 ## G44. $49.99
 
-**Title (76 characters):** Lot of 22 4GB DDR3 1600 PC3-12800 Desktop RAM 88GB G.Skill Ripjaws X Corsair
+**Title (78 characters):** Lot of 24 4GB DDR3 1600 1333 Desktop Gaming RAM 96GB G.Skill Ripjaws X Corsair
 
-**Description:** 22x 4GB DDR3-1600 (PC3-12800) desktop gaming RAM, 88GB total, all CL9, 1.5V, Intel XMP: 11x G.Skill Ripjaws X F3-12800CL9D-8GBXL (CL9-9-9-24, red heatspreaders), 5x Corsair Vengeance CMZ8GX3M2A1600C9 (CL9-9-9-24, black heatspreaders), 3x Corsair Vengeance CMZ8GX3M2A1600C9B (CL9-9-9-24, blue heatspreaders), 2x Corsair Vengeance Pro CMY8GX3M2A1600C9B (CL9-9-9-24, black/blue heatspreaders) and 1x Corsair Vengeance CMZ4GX3M1A1600C9 (CL9-9-9-24, black). Desktop 240-pin, non-ECC unbuffered. Mixed brands; sold as one lot. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
+**Description:** 24x 4GB DDR3 desktop gaming RAM, 96GB total, all CL9, 1.5V. 22x DDR3-1600 (PC3-12800) CL9-9-9-24 with Intel XMP: 11x G.Skill Ripjaws X F3-12800CL9D-8GBXL (red), 5x Corsair Vengeance CMZ8GX3M2A1600C9 (black), 3x Corsair Vengeance CMZ8GX3M2A1600C9B (blue), 2x Corsair Vengeance Pro CMY8GX3M2A1600C9B (black/blue), 1x Corsair Vengeance CMZ4GX3M1A1600C9 (black). 2x DDR3-1333 (PC3-10600) CL9-9-9-24: G.Skill Ripjaws X F3-10666CL9D-8GBXL (red). Desktop 240-pin, non-ECC unbuffered. Mixed brands and speeds; sold as one lot. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
 
-*Pricing note (for you):* Trial: 4GB DDR3 normally goes back to the supplier. One lot of 22 at $49.99 (about $2.27 a stick). If it doesn't sell in about 2 weeks, send all 22 back. Take a group photo of all 22 before listing.
+*Pricing note (for you):* Trial: 4GB DDR3 normally goes back to the supplier. One lot of 24 at $49.99 (about $2.08 a stick). If it doesn't sell in about 2 weeks, send all 24 back. Take a group photo of all 24 before listing.
 
 # Batch 15 - DDR3 kits (rebuilt from G1)
 
