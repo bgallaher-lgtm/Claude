@@ -381,13 +381,13 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 # Batch 14 - DDR3 4GB lot (trial)
 
-## G44. $84.99
+## G44. $89.99
 
-**Title (79 characters):** Lot of 41 4GB DDR3 2400 2133 1600 1333 Desktop Gaming RAM 164GB G.Skill Corsair
+**Title (80 characters):** Lot of 43 4GB DDR3 2400 2133 1600 1333 Desktop RAM 172GB G.Skill Corsair Crucial
 
-**Description:** 41x 4GB DDR3 desktop gaming RAM, 164GB total. 2x DDR3-2400 (PC3-19200) CL10-12-12-31, 1.65V, Intel XMP: G.Skill Trident X F3-2400C10D-8GTX (black/red, removable fin tops). 6x DDR3-2133 (PC3-17000), Intel XMP: 5x G.Skill RipjawsZ F3-17000CL11Q2-32GBZL (CL11-11-11-30, 1.6V, red, tall heatspreader), 1x G.Skill Ripjaws X F3-2133C9D-8GXL (CL9-11-11-31, 1.6-1.65V, red). 29x DDR3-1600 (PC3-12800), 1.5V, Intel XMP: 4x G.Skill Ripjaws X F3-12800CL8D-8GBXM (CL8-8-8-24, blue), 11x G.Skill Ripjaws X F3-12800CL9D-8GBXL (CL9, red), 1x G.Skill Ripjaws X F3-12800CL9Q-16GBXL (CL9, red), 2x G.Skill RipjawsZ F3-12800CL9Q-16GBZL (CL9, red, tall heatspreader), 5x Corsair Vengeance CMZ8GX3M2A1600C9 (CL9, black), 3x Corsair Vengeance CMZ8GX3M2A1600C9B (CL9, blue), 2x Corsair Vengeance Pro CMY8GX3M2A1600C9B (CL9, black/blue), 1x Corsair Vengeance CMZ4GX3M1A1600C9 (CL9, black). 4x DDR3-1333 (PC3-10600) CL9, 1.5V: 2x G.Skill Ripjaws X F3-10666CL9D-8GBXL (red), 2x G.Skill Ripjaws F3-10666CL9D-8GBRL (red). Desktop 240-pin, non-ECC unbuffered. Mixed brands and speeds; sold as one lot. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
+**Description:** 43x 4GB DDR3 desktop gaming RAM, 172GB total. 2x DDR3-2400 (PC3-19200) CL10-12-12-31, 1.65V, Intel XMP: G.Skill Trident X F3-2400C10D-8GTX (black/red, removable fin tops). 6x DDR3-2133 (PC3-17000), Intel XMP: 5x G.Skill RipjawsZ F3-17000CL11Q2-32GBZL (CL11-11-11-30, 1.6V, red, tall heatspreader), 1x G.Skill Ripjaws X F3-2133C9D-8GXL (CL9-11-11-31, 1.6-1.65V, red). 30x DDR3-1600 (PC3-12800), 1.5V: 4x G.Skill Ripjaws X F3-12800CL8D-8GBXM (CL8-8-8-24, blue), 11x G.Skill Ripjaws X F3-12800CL9D-8GBXL (CL9, red), 1x G.Skill Ripjaws X F3-12800CL9Q-16GBXL (CL9, red), 2x G.Skill RipjawsZ F3-12800CL9Q-16GBZL (CL9, red, tall heatspreader), 5x Corsair Vengeance CMZ8GX3M2A1600C9 (CL9, black), 3x Corsair Vengeance CMZ8GX3M2A1600C9B (CL9, blue), 2x Corsair Vengeance Pro CMY8GX3M2A1600C9B (CL9, black/blue), 1x Corsair Vengeance CMZ4GX3M1A1600C9 (CL9, black), 1x Crucial Ballistix Sport BLS4G3D1609DS1S00 (CL9, black). 5x DDR3-1333 (PC3-10600) CL9, 1.5V: 2x G.Skill Ripjaws X F3-10666CL9D-8GBXL (red), 2x G.Skill Ripjaws F3-10666CL9D-8GBRL (red), 1x Crucial Ballistix Sport BLS4G3D1339DS1S00 (black). Desktop 240-pin, non-ECC unbuffered. Mixed brands and speeds; sold as one lot. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
 
-*Pricing note (for you):* Trial: 4GB DDR3 normally goes back to the supplier. One lot of 41 at $84.99 (about $2.07 a stick); price raised as the lot grew, for heavier shipping (~3.5-4 lb). Owner is still adding sticks; split it into smaller lots once everything is in. If it doesn't sell in about 2 weeks, send it all back.
+*Pricing note (for you):* Trial: 4GB DDR3 normally goes back to the supplier. One lot of 43 at $89.99 (about $2.09 a stick); price raised as the lot grew, for heavier shipping (~4 lb). Owner is still adding sticks; split it into smaller lots once everything is in. If it doesn't sell in about 2 weeks, send it all back.
 
 # Batch 15 - DDR3 kits (rebuilt from G1)
 
@@ -425,7 +425,7 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* Comp: Corsair XMS2 4GB (2x2GB) DDR2-800 sold Oct 9 for $12.99. Use the cheapest shipping; nets about $5-6.
 
-# Send back to supplier (80 sticks)
+# Send back to supplier (82 sticks)
 
 | # | Stick | Size / speed | Reason |
 |---|---|---|---|
@@ -468,3 +468,4 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 | 37 | Micron MT18JSF1G72PDZ-1G6E1FE x2 | 8GB DDR3-1600 server RDIMM (PC3-12800R) | Server DDR3 |
 | 38 | Edge Memory 46372-1 (4GE533604) x2 | 4GB server (likely DDR2-667 FB-DIMM) | 4GB server; lowest value, heavy full-cover heatspreader. Nov 10 |
 | 39 | Micron 8GB 2Rx4 PC3-10600R (537R label) x3 | 8GB DDR3-1333 server RDIMM | Server DDR3 ~$5/stick; standard height, not VLP. Nov 10 |
+| 40 | Crucial Ballistix Sport BLS2G3D1339DS1S00 x2 | 2GB DDR3-1333 | 2GB; too small to list. Nov 10 |
