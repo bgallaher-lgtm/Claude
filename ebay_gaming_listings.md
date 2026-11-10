@@ -13,7 +13,7 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* At base (5 x $12.50 + $13.00 = $75.50). The 1866 stick runs at 1600 alongside the others.
 
-**TAKEN DOWN Nov 10, 2026 (on hold, rebuilding).** Pull any stick that matches another set to make a pair, add good 8GB DDR3 singles, then relist as a new G1 lot. Update this list as sticks move.
+**TAKEN DOWN Nov 10, 2026 (on hold, rebuilding).** **Nov 10 update:** the G.Skill Ripjaws X F3-14900CL10D-16GBXL (1866) stick moved to G45. G1 is now 5x 8GB DDR3-1600 (Corsair Vengeance CMZ16GX3M2A1600C10, Corsair Vengeance Pro CMY16GX3M2A1600C9R, G.Skill Ares F3-1600C9D-16GAR, HyperX Fury HX316C10FR/8, Kingston HyperX Blu KHX1600C10D3B1/8G), working title "Lot of 5 8GB DDR3 1600 Gaming RAM 40GB Corsair G.Skill HyperX Kingston Desktop" at $62.99. Retake photos before relisting (the old photos include the 1866 stick). Pull any stick that matches another set to make a pair, add good 8GB DDR3 singles, then relist as a new G1 lot. Update this list as sticks move.
 
 # Batch 2 - DDR4 mixed
 
@@ -388,6 +388,16 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 **Description:** 11x G.Skill Ripjaws X 4GB DDR3-1600 (PC3-12800) CL9-9-9-24, 1.5V, Intel XMP, red heatspreaders. Part F3-12800CL9D-8GBXL (sold new as 2x 4GB kits); 5 pairs plus 1 extra, 44GB total. Desktop 240-pin, non-ECC unbuffered. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
 
 *Pricing note (for you):* Trial: 4GB DDR3 normally goes back to the supplier. One lot of 11 at $29.99 (about $2.73 a stick) to see if it sells. If it doesn't sell in about 2 weeks, send all 11 back.
+
+# Batch 15 - DDR3 kits (rebuilt from G1)
+
+## G45. $25.99
+
+**Title (78 characters):** G.Skill Ripjaws X 16GB (2x8GB) DDR3 1866 CL10 F3-14900CL10D-16GBXL Desktop RAM
+
+**Description:** 2x G.Skill Ripjaws X F3-14900CL10D-16GBXL, 8GB DDR3-1866 (PC3-14900) CL10-11-10-30, 1.5V, Intel XMP, red heatspreaders. Same part number on both; not from the same retail kit. 16GB total. Desktop 240-pin, non-ECC unbuffered. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
+
+*Pricing note (for you):* Base price (2 x $13), same as G26 and G35. One stick came out of G1, the other was found Nov 10.
 
 # Send back to supplier (75 sticks)
 
