@@ -461,7 +461,7 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* Laptop kit. Base $22 (2 x $11, DDR3-1600 laptop row). Comp: Samsung 2x8GB DDR3L-1600 desktop (bare) sold 4x at $19.99 in Oct. If more pairs turn up, make it a quantity listing.
 
-# Send back to supplier (87 sticks)
+# Send back to supplier (90 sticks)
 
 | # | Stick | Size / speed | Reason |
 |---|---|---|---|
@@ -508,3 +508,4 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 | 41 | Crucial Ballistix Sport BL25664BA1339 x2 | 2GB DDR3-1333 | 2GB; too small to list. Nov 10 |
 | 42 | Crucial CT102472AF667 / Micron MT36HTS1G72FY-667A1D4 x1 | 8GB DDR2-667 FB-DIMM (PC2-5300F) | Single old FB-DIMM; not worth listing alone. Nov 10 |
 | 43 | Kingston KTM5780/8G (IBM FRU 40T6602) x2 | 4GB DDR2-667 FB-DIMM (PC2-5300F) | 4GB FB-DIMM, IBM server; lowest value. Nov 10 |
+| 44 | Corsair ValueSelect CMSO8GX3M2C1600C11 x3 | 4GB DDR3L-1600 laptop SODIMM | 4GB DDR3 laptop; serials 775770/771 (a pair) + 775784. Nov 5 + Nov 10 |
