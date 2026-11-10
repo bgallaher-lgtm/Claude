@@ -439,6 +439,14 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* Base price (2 x $12.50). Same part as G9 (4x, sold $45) and G10 (3x, sold $36.99). Found Nov 10.
 
+## G52. $49.99
+
+**Title (79 characters):** G.Skill Ripjaws V 16GB (2x8GB) DDR4 2400 CL15 F4-2400C15D-16GVR Red Desktop RAM
+
+**Description:** Matched kit G.Skill Ripjaws V F4-2400C15D-16GVR (Aug 2017). 2x 8GB DDR4-2400 (PC4-19200) CL15-15-15-35, 1.2V, Intel XMP 2.0, red heatspreaders. 16GB total. Desktop 288-pin, non-ECC unbuffered. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+
+*Pricing note (for you):* Base price (2 x $25). Comps: G14 Corsair LPX 2x8GB DDR4-2400 and G12 Ballistix 4x4GB 2400 both sold at $49.99. Found Nov 10.
+
 # Send back to supplier (84 sticks)
 
 | # | Stick | Size / speed | Reason |
