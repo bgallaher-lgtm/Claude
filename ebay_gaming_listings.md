@@ -415,6 +415,16 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* A little above base ($25) for Vengeance Pro and CL9; under G40 ($34.99, the 1866 version). One stick came out of G1, three found Nov 10.
 
+# Batch 16 - DDR2
+
+## G49. $12.99
+
+**Title (77 characters):** Crucial Ballistix 4GB (2x2GB) DDR2 800 PC2-6400 CL5 Desktop RAM BLS2G2D80EBS1
+
+**Description:** 2x 2GB DDR2-800 (PC2-6400) CL5-5-5-12, 1.8V desktop RAM: 1x Crucial Ballistix Sport BLS2G2D80EBS1S00 and 1x Crucial Ballistix BL25664AA80E. Two different Ballistix part numbers with the same speed, timings and voltage; they run together as a 4GB kit. Desktop 240-pin DDR2, non-ECC unbuffered. For older Core 2 / AM2 / AM3 DDR2 systems; will NOT fit DDR3 or DDR4 boards. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
+
+*Pricing note (for you):* Comp: Corsair XMS2 4GB (2x2GB) DDR2-800 sold Oct 9 for $12.99. Use the cheapest shipping; nets about $5-6.
+
 # Send back to supplier (80 sticks)
 
 | # | Stick | Size / speed | Reason |
