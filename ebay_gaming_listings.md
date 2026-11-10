@@ -461,6 +461,14 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* Laptop kit. Base $22 (2 x $11, DDR3-1600 laptop row). Comp: Samsung 2x8GB DDR3L-1600 desktop (bare) sold 4x at $19.99 in Oct. If more pairs turn up, make it a quantity listing.
 
+## G55. $22.99
+
+**Title (79 characters):** G.Skill Aegis 16GB (2x8GB) DDR3L 1600 CL11 F3-1600C11D-16GISL 1.35V Desktop RAM
+
+**Description:** Matched kit G.Skill Aegis F3-1600C11D-16GISL (Aug 2015, consecutive serials). 2x 8GB DDR3L-1600 (PC3L-12800) CL11-11-11-28, 1.35V low-voltage (also runs at 1.5V), Intel XMP, red/black heatspreaders. 16GB total. Desktop 240-pin, non-ECC unbuffered. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+
+*Pricing note (for you):* Slightly under base ($25): CL11 timing, budget Aegis line; G34 (Corsair XMS3 2x8GB 1600 CL11) sold for $20. Found Nov 10.
+
 # Send back to supplier (90 sticks)
 
 | # | Stick | Size / speed | Reason |
