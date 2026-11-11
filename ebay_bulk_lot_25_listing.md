@@ -11,7 +11,7 @@ Lot of 52 DDR4 RAM Mixed 2GB 4GB 8GB 16GB Desktop Laptop 2133 2400 2666 3200
 
 ## Description
 
-Lot of 52 DDR4 RAM sticks (374GB total): desktop UDIMM and laptop SODIMM, mixed speeds and capacities. Every stick tested on a RAM tester. All modules are non-ECC.
+Lot of 52 DDR4 RAM sticks (374GB total): desktop UDIMM and laptop SODIMM, mixed speeds and capacities. Every stick checked on a continuity RAM tester (see below). All modules are non-ECC.
 
 LAPTOP SODIMM - 260-Pin, non-ECC (43 sticks)
 
@@ -50,6 +50,8 @@ TOTALS:
 - 1x 2GB = 2GB
 - 374GB total DDR4 memory
 
-Mixed brands (Samsung, SK hynix, Micron, Kingston, etc.). All pulled from working systems. Every stick tested on a RAM tester. Ships securely packed in anti-static packaging.
+Mixed brands (Samsung, SK hynix, Micron, Kingston, etc.). All pulled from working systems. Ships securely packed in anti-static packaging.
+
+**Testing and returns:** Gallaher Computers checks every module with a continuity RAM tester, which confirms the circuits are complete with no breaks. It is a basic electrical check, not a full load or stress test. If you run into any problem, please message us and we'll make it right. All RAM comes with a 30-day return policy.
 
 ---

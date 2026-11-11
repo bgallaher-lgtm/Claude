@@ -9,7 +9,7 @@ Lot of 2 Samsung 32GB DDR4 2133 LRDIMM M386A4G40DM0-CPB Lenovo 46W0802 64GB
 
 ## Description
 
-Lot of 2 Samsung 32GB DDR4-2133 LRDIMM (load-reduced) server memory modules, 64GB total, with Lenovo labels. Every module tested on a RAM tester.
+Lot of 2 Samsung 32GB DDR4-2133 LRDIMM (load-reduced) server memory modules, 64GB total, with Lenovo labels. Every module checked on a continuity RAM tester (see below).
 
 **Module details**
 - Capacity: 32GB per module, 2 modules (64GB total)
@@ -24,6 +24,8 @@ Lot of 2 Samsung 32GB DDR4-2133 LRDIMM (load-reduced) server memory modules, 64G
 - LRDIMMs cannot be mixed with standard RDIMMs in the same system.
 - Will NOT work in desktops or laptops.
 
-All modules pulled from working systems and tested. Ships in anti-static packaging.
+All modules pulled from working systems. Ships in anti-static packaging.
+
+**Testing and returns:** Gallaher Computers checks every module with a continuity RAM tester, which confirms the circuits are complete with no breaks. It is a basic electrical check, not a full load or stress test. If you run into any problem, please message us and we'll make it right. All RAM comes with a 30-day return policy.
 
 ---

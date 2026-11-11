@@ -9,7 +9,9 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 **Title (75 characters):** Lot of 4 8GB DDR3 Gaming RAM 32GB 1600 1866 Corsair G.Skill HyperX Kingston
 
-**Description:** 4x 8GB DDR3 desktop gaming RAM (32GB): Corsair Vengeance CMZ16GX3M2A1600C10 (1600 CL10), HyperX Fury HX316C10FR/8 (1600 CL10), Kingston HyperX Blu KHX1600C10D3B1/8G (1600 CL10), G.Skill Ripjaws X F3-14900CL10S-8GBXL (1866 CL10). Mixed brands, not a matched kit; all run together at 1600. 1.5V. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
+**Description:** 4x 8GB DDR3 desktop gaming RAM (32GB): Corsair Vengeance CMZ16GX3M2A1600C10 (1600 CL10), HyperX Fury HX316C10FR/8 (1600 CL10), Kingston HyperX Blu KHX1600C10D3B1/8G (1600 CL10), G.Skill Ripjaws X F3-14900CL10S-8GBXL (1866 CL10). Mixed brands, not a matched kit; all run together at 1600. 1.5V. Pulled from working systems. Ships in anti-static packaging.
+
+**Testing and returns:** Gallaher Computers checks every module with a continuity RAM tester, which confirms the circuits are complete with no breaks. It is a basic electrical check, not a full load or stress test. If you run into any problem, please message us and we'll make it right. All RAM comes with a 30-day return policy.
 
 *Pricing note (for you):* REBUILT Nov 10. G.Skill Ripjaws X 1866, G.Skill Ares 1600 and Corsair Vengeance Pro sticks moved to G45/G46/G47; single G.Skill Ripjaws X F3-14900CL10S-8GBXL 1866 added. Now 4 sticks at $49.99 (3 x $12.50 + $13 = $50.50). Was 6 sticks at $75.99. Retake photos of these 4 before relisting.
 
@@ -379,7 +381,9 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 **Title (77 characters):** Lot of 27 G.Skill 4GB DDR3 2400 2133 1600 Desktop RAM 108GB Ripjaws Trident X
 
-**Description:** 27x G.Skill 4GB DDR3 desktop gaming RAM, 108GB total. 2x DDR3-2400 (PC3-19200) CL10-12-12-31, 1.65V, Intel XMP: G.Skill Trident X F3-2400C10D-8GTX (black/red, removable fin tops). 6x DDR3-2133 (PC3-17000), Intel XMP: 5x G.Skill RipjawsZ F3-17000CL11Q2-32GBZL (CL11-11-11-30, 1.6V, red, tall heatspreader), 1x G.Skill Ripjaws X F3-2133C9D-8GXL (CL9-11-11-31, 1.6-1.65V, red). 19x DDR3-1600 (PC3-12800), 1.5V: 4x G.Skill Ripjaws X F3-12800CL8D-8GBXM (CL8-8-8-24, blue), 11x G.Skill Ripjaws X F3-12800CL9D-8GBXL (CL9, red), 1x G.Skill Ripjaws X F3-12800CL9Q-16GBXL (CL9, red), 2x G.Skill RipjawsZ F3-12800CL9Q-16GBZL (CL9, red, tall heatspreader), 1x G.Skill Sniper F3-12800CL9D-8GBSR2 (CL9, black/red). Desktop 240-pin, non-ECC unbuffered. All G.Skill; mixed speeds; sold as one lot. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
+**Description:** 27x G.Skill 4GB DDR3 desktop gaming RAM, 108GB total. 2x DDR3-2400 (PC3-19200) CL10-12-12-31, 1.65V, Intel XMP: G.Skill Trident X F3-2400C10D-8GTX (black/red, removable fin tops). 6x DDR3-2133 (PC3-17000), Intel XMP: 5x G.Skill RipjawsZ F3-17000CL11Q2-32GBZL (CL11-11-11-30, 1.6V, red, tall heatspreader), 1x G.Skill Ripjaws X F3-2133C9D-8GXL (CL9-11-11-31, 1.6-1.65V, red). 19x DDR3-1600 (PC3-12800), 1.5V: 4x G.Skill Ripjaws X F3-12800CL8D-8GBXM (CL8-8-8-24, blue), 11x G.Skill Ripjaws X F3-12800CL9D-8GBXL (CL9, red), 1x G.Skill Ripjaws X F3-12800CL9Q-16GBXL (CL9, red), 2x G.Skill RipjawsZ F3-12800CL9Q-16GBZL (CL9, red, tall heatspreader), 1x G.Skill Sniper F3-12800CL9D-8GBSR2 (CL9, black/red). Desktop 240-pin, non-ECC unbuffered. All G.Skill; mixed speeds; sold as one lot. Pulled from working systems. Ships in anti-static packaging.
+
+**Testing and returns:** Gallaher Computers checks every module with a continuity RAM tester, which confirms the circuits are complete with no breaks. It is a basic electrical check, not a full load or stress test. If you run into any problem, please message us and we'll make it right. All RAM comes with a 30-day return policy.
 
 *Pricing note (for you):* Trial: 4GB DDR3 normally goes back to the supplier. Split from the original 53-stick G44 on Nov 11: all the G.Skill at 1600 and faster (the 2400 and 2133 sticks are here). $57.99 is about $2.15 a stick, a little above the old $2.04 because of the faster sticks and single brand. Ships about 2.5 lb. If it doesn't sell in about 2 weeks, send it back.
 
@@ -387,7 +391,9 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 **Title (80 characters):** Lot of 26 Corsair Vengeance 4GB DDR3 1600 1333 Desktop RAM 104GB Crucial G.Skill
 
-**Description:** 26x 4GB DDR3 desktop RAM, 104GB total. 21x DDR3-1600 (PC3-12800) CL9, 1.5V: 5x Corsair Vengeance CMZ8GX3M2A1600C9 (black), 3x Corsair Vengeance CMZ8GX3M2A1600C9B (blue), 2x Corsair Vengeance Pro CMY8GX3M2A1600C9B (black/blue), 1x Corsair Vengeance CMZ4GX3M1A1600C9 (black), 5x Corsair Vengeance LP CML8GX3M2A1600C9 (low-profile black), 4x Corsair Vengeance LP CML16GX3M4A1600C9 (low-profile black), 1x Crucial Ballistix Sport BLS4G3D1609DS1S00 (black). 5x DDR3-1333 (PC3-10600) CL9, 1.5V: 2x G.Skill Ripjaws X F3-10666CL9D-8GBXL (red), 2x G.Skill Ripjaws F3-10666CL9D-8GBRL (red), 1x Crucial Ballistix Sport BLS4G3D1339DS1S00 (black). Desktop 240-pin, non-ECC unbuffered. Mixed brands and speeds; sold as one lot. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
+**Description:** 26x 4GB DDR3 desktop RAM, 104GB total. 21x DDR3-1600 (PC3-12800) CL9, 1.5V: 5x Corsair Vengeance CMZ8GX3M2A1600C9 (black), 3x Corsair Vengeance CMZ8GX3M2A1600C9B (blue), 2x Corsair Vengeance Pro CMY8GX3M2A1600C9B (black/blue), 1x Corsair Vengeance CMZ4GX3M1A1600C9 (black), 5x Corsair Vengeance LP CML8GX3M2A1600C9 (low-profile black), 4x Corsair Vengeance LP CML16GX3M4A1600C9 (low-profile black), 1x Crucial Ballistix Sport BLS4G3D1609DS1S00 (black). 5x DDR3-1333 (PC3-10600) CL9, 1.5V: 2x G.Skill Ripjaws X F3-10666CL9D-8GBXL (red), 2x G.Skill Ripjaws F3-10666CL9D-8GBRL (red), 1x Crucial Ballistix Sport BLS4G3D1339DS1S00 (black). Desktop 240-pin, non-ECC unbuffered. Mixed brands and speeds; sold as one lot. Pulled from working systems. Ships in anti-static packaging.
+
+**Testing and returns:** Gallaher Computers checks every module with a continuity RAM tester, which confirms the circuits are complete with no breaks. It is a basic electrical check, not a full load or stress test. If you run into any problem, please message us and we'll make it right. All RAM comes with a 30-day return policy.
 
 *Pricing note (for you):* Trial: 4GB DDR3 normally goes back to the supplier. Split from the original 53-stick G44 on Nov 11: all 20 Corsair, both Crucial and the 4 G.Skill 1333 sticks. $49.99 is about $1.92 a stick, a little under the old $2.04 because of the 1333 sticks. Ships about 2.5 lb. If it doesn't sell in about 2 weeks, send it back.
 
@@ -397,7 +403,9 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 **Title (78 characters):** G.Skill Ripjaws X 16GB (2x8GB) DDR3 1866 CL10 F3-14900CL10D-16GBXL Desktop RAM
 
-**Description:** 2x G.Skill Ripjaws X F3-14900CL10D-16GBXL, 8GB DDR3-1866 (PC3-14900) CL10-11-10-30, 1.5V, Intel XMP, red heatspreaders. Same part number on both; not from the same retail kit. 16GB total. Desktop 240-pin, non-ECC unbuffered. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
+**Description:** 2x G.Skill Ripjaws X F3-14900CL10D-16GBXL, 8GB DDR3-1866 (PC3-14900) CL10-11-10-30, 1.5V, Intel XMP, red heatspreaders. Same part number on both; not from the same retail kit. 16GB total. Desktop 240-pin, non-ECC unbuffered. Pulled from working systems. Ships in anti-static packaging.
+
+**Testing and returns:** Gallaher Computers checks every module with a continuity RAM tester, which confirms the circuits are complete with no breaks. It is a basic electrical check, not a full load or stress test. If you run into any problem, please message us and we'll make it right. All RAM comes with a 30-day return policy.
 
 *Pricing note (for you):* Base price (2 x $13), same as G26 and G35. One stick came out of G1, the other was found Nov 10.
 
@@ -405,7 +413,9 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 **Title (79 characters):** G.Skill Ares 16GB (2x8GB) DDR3 1600 CL9 F3-1600C9D-16GAR Red Desktop RAM Tested
 
-**Description:** 2x G.Skill Ares F3-1600C9D-16GAR, 8GB DDR3-1600 (PC3-12800) CL9-9-9-24, 1.5V, Intel XMP, low-profile red heatspreaders. Same part number on both; not from the same retail kit. 16GB total. Desktop 240-pin, non-ECC unbuffered. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
+**Description:** 2x G.Skill Ares F3-1600C9D-16GAR, 8GB DDR3-1600 (PC3-12800) CL9-9-9-24, 1.5V, Intel XMP, low-profile red heatspreaders. Same part number on both; not from the same retail kit. 16GB total. Desktop 240-pin, non-ECC unbuffered. Pulled from working systems. Ships in anti-static packaging.
+
+**Testing and returns:** Gallaher Computers checks every module with a continuity RAM tester, which confirms the circuits are complete with no breaks. It is a basic electrical check, not a full load or stress test. If you run into any problem, please message us and we'll make it right. All RAM comes with a 30-day return policy.
 
 *Pricing note (for you):* Base price (2 x $12.50), same as G27 and G32. One stick came out of G1, the other was found Nov 10.
 
@@ -413,7 +423,9 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 **Title (79 characters):** Corsair Vengeance Pro 16GB (2x8GB) DDR3 1600 CL9 CMY16GX3M2A1600C9R Red Desktop
 
-**Description:** Corsair Vengeance Pro CMY16GX3M2A1600C9R: 2x 8GB DDR3-1600 (PC3-12800) CL9-9-9-24, 1.5V, Intel XMP, black heatspreaders with red trim. Same part number on both sticks. 16GB total per kit. Desktop 240-pin, non-ECC unbuffered. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging. 2 kits available; each purchase is one 2-stick kit.
+**Description:** Corsair Vengeance Pro CMY16GX3M2A1600C9R: 2x 8GB DDR3-1600 (PC3-12800) CL9-9-9-24, 1.5V, Intel XMP, black heatspreaders with red trim. Same part number on both sticks. 16GB total per kit. Desktop 240-pin, non-ECC unbuffered. Pulled from working systems. Ships in anti-static packaging. 2 kits available; each purchase is one 2-stick kit.
+
+**Testing and returns:** Gallaher Computers checks every module with a continuity RAM tester, which confirms the circuits are complete with no breaks. It is a basic electrical check, not a full load or stress test. If you run into any problem, please message us and we'll make it right. All RAM comes with a 30-day return policy.
 
 *Pricing note (for you):* A little above base ($25) for Vengeance Pro and CL9; under G40 ($34.99, the 1866 version). One stick came out of G1, three found Nov 10.
 
@@ -423,7 +435,9 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 **Title (77 characters):** Crucial Ballistix 4GB (2x2GB) DDR2 800 PC2-6400 CL5 Desktop RAM BLS2G2D80EBS1
 
-**Description:** 2x 2GB DDR2-800 (PC2-6400) CL5-5-5-12, 1.8V desktop RAM: 1x Crucial Ballistix Sport BLS2G2D80EBS1S00 and 1x Crucial Ballistix BL25664AA80E. Two different Ballistix part numbers with the same speed, timings and voltage; they run together as a 4GB kit. Desktop 240-pin DDR2, non-ECC unbuffered. For older Core 2 / AM2 / AM3 DDR2 systems; will NOT fit DDR3 or DDR4 boards. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
+**Description:** 2x 2GB DDR2-800 (PC2-6400) CL5-5-5-12, 1.8V desktop RAM: 1x Crucial Ballistix Sport BLS2G2D80EBS1S00 and 1x Crucial Ballistix BL25664AA80E. Two different Ballistix part numbers with the same speed, timings and voltage; they run together as a 4GB kit. Desktop 240-pin DDR2, non-ECC unbuffered. For older Core 2 / AM2 / AM3 DDR2 systems; will NOT fit DDR3 or DDR4 boards. Pulled from working systems. Ships in anti-static packaging.
+
+**Testing and returns:** Gallaher Computers checks every module with a continuity RAM tester, which confirms the circuits are complete with no breaks. It is a basic electrical check, not a full load or stress test. If you run into any problem, please message us and we'll make it right. All RAM comes with a 30-day return policy.
 
 *Pricing note (for you):* Comp: Corsair XMS2 4GB (2x2GB) DDR2-800 sold Oct 9 for $12.99. Use the cheapest shipping; nets about $5-6.
 
@@ -433,7 +447,9 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 **Title (78 characters):** G.Skill Ripjaws V 12GB (3x4GB) DDR4 2400 CL15 F4-2400C15D-8GVR Red Desktop RAM
 
-**Description:** 3x G.Skill Ripjaws V F4-2400C15D-8GVR (from 2x4GB kits), 4GB DDR4-2400 (PC4-19200) CL15-15-15-35, 1.2V, Intel XMP 2.0, red heatspreaders. Same part number on all three. 12GB total. Desktop 288-pin, non-ECC unbuffered. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
+**Description:** 3x G.Skill Ripjaws V F4-2400C15D-8GVR (from 2x4GB kits), 4GB DDR4-2400 (PC4-19200) CL15-15-15-35, 1.2V, Intel XMP 2.0, red heatspreaders. Same part number on all three. 12GB total. Desktop 288-pin, non-ECC unbuffered. Pulled from working systems. Ships in anti-static packaging.
+
+**Testing and returns:** Gallaher Computers checks every module with a continuity RAM tester, which confirms the circuits are complete with no breaks. It is a basic electrical check, not a full load or stress test. If you run into any problem, please message us and we'll make it right. All RAM comes with a 30-day return policy.
 
 *Pricing note (for you):* Base price (3 x $12.50 = $37.50), same as G10/G16 (3x4GB DDR4-2400, $36.99). One stick came out of G8, two found Nov 10. Take photos of just these 3 before posting.
 
@@ -441,7 +457,9 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 **Title (79 characters):** Patriot Viper Elite 8GB (2x4GB) DDR4 2400 CL16 PVE44G240C6GY Desktop RAM Tested
 
-**Description:** 2x PVE44G240C6GY, 4GB DDR4-2400 CL16, 1.2V. Same part number on both. Gray Patriot Viper Elite heatspreaders. 8GB total. Desktop 288-pin, non-ECC unbuffered. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+**Description:** 2x PVE44G240C6GY, 4GB DDR4-2400 CL16, 1.2V. Same part number on both. Gray Patriot Viper Elite heatspreaders. 8GB total. Desktop 288-pin, non-ECC unbuffered. Pulled from a working system. Ships in anti-static packaging.
+
+**Testing and returns:** Gallaher Computers checks every module with a continuity RAM tester, which confirms the circuits are complete with no breaks. It is a basic electrical check, not a full load or stress test. If you run into any problem, please message us and we'll make it right. All RAM comes with a 30-day return policy.
 
 *Pricing note (for you):* Base price (2 x $12.50). Same part as G9 (4x, sold $45) and G10 (3x, sold $36.99). Found Nov 10.
 
@@ -449,7 +467,9 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 **Title (79 characters):** G.Skill Ripjaws V 16GB (2x8GB) DDR4 2400 CL15 F4-2400C15D-16GVR Red Desktop RAM
 
-**Description:** Matched kit G.Skill Ripjaws V F4-2400C15D-16GVR (Aug 2017). 2x 8GB DDR4-2400 (PC4-19200) CL15-15-15-35, 1.2V, Intel XMP 2.0, red heatspreaders. 16GB total. Desktop 288-pin, non-ECC unbuffered. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+**Description:** Matched kit G.Skill Ripjaws V F4-2400C15D-16GVR (Aug 2017). 2x 8GB DDR4-2400 (PC4-19200) CL15-15-15-35, 1.2V, Intel XMP 2.0, red heatspreaders. 16GB total. Desktop 288-pin, non-ECC unbuffered. Pulled from a working system. Ships in anti-static packaging.
+
+**Testing and returns:** Gallaher Computers checks every module with a continuity RAM tester, which confirms the circuits are complete with no breaks. It is a basic electrical check, not a full load or stress test. If you run into any problem, please message us and we'll make it right. All RAM comes with a 30-day return policy.
 
 *Pricing note (for you):* Base price (2 x $25). Comps: G14 Corsair LPX 2x8GB DDR4-2400 and G12 Ballistix 4x4GB 2400 both sold at $49.99. Found Nov 10.
 
@@ -457,7 +477,9 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 **Title (78 characters):** Lot of 15 Crucial Ballistix Sport 4GB DDR3 1600 BLS4G3D1609DS1S00 Desktop 60GB
 
-**Description:** 15x Crucial Ballistix Sport BLS4G3D1609DS1S00, 4GB DDR3-1600 (PC3-12800) CL9-9-9-24, 1.5V, Intel XMP, black heatspreaders. Same part number on all 15. 60GB total. Desktop 240-pin, non-ECC unbuffered. Sold as one lot. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
+**Description:** 15x Crucial Ballistix Sport BLS4G3D1609DS1S00, 4GB DDR3-1600 (PC3-12800) CL9-9-9-24, 1.5V, Intel XMP, black heatspreaders. Same part number on all 15. 60GB total. Desktop 240-pin, non-ECC unbuffered. Sold as one lot. Pulled from working systems. Ships in anti-static packaging.
+
+**Testing and returns:** Gallaher Computers checks every module with a continuity RAM tester, which confirms the circuits are complete with no breaks. It is a basic electrical check, not a full load or stress test. If you run into any problem, please message us and we'll make it right. All RAM comes with a 30-day return policy.
 
 *Pricing note (for you):* Trial: 4GB DDR3 normally goes back to the supplier. Single-brand lot of 15 at $34.99 (about $2.33 a stick), separate from the G44 mixed lot. If it doesn't sell in about 2 weeks, add these to G44 or send them back. Take a group photo of all 15.
 
@@ -465,7 +487,9 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 **Title (80 characters):** Patriot Viper 16GB (2x8GB) DDR3L 1600 CL9 Laptop SODIMM RAM PV316G160LC9SK 1.35V
 
-**Description:** Matched kit Patriot Viper PV316G160LC9SK (same lot PE309-011026). 2x 8GB DDR3L-1600 (PC3L-12800) CL9-9-9-24, 1.35V low-voltage (also runs at 1.5V), black heatspreaders. 16GB total. Laptop SODIMM, 204-pin, non-ECC. Fits DDR3/DDR3L laptops and mini PCs (Intel 3rd-5th gen and similar). Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+**Description:** Matched kit Patriot Viper PV316G160LC9SK (same lot PE309-011026). 2x 8GB DDR3L-1600 (PC3L-12800) CL9-9-9-24, 1.35V low-voltage (also runs at 1.5V), black heatspreaders. 16GB total. Laptop SODIMM, 204-pin, non-ECC. Fits DDR3/DDR3L laptops and mini PCs (Intel 3rd-5th gen and similar). Pulled from a working system. Ships in anti-static packaging.
+
+**Testing and returns:** Gallaher Computers checks every module with a continuity RAM tester, which confirms the circuits are complete with no breaks. It is a basic electrical check, not a full load or stress test. If you run into any problem, please message us and we'll make it right. All RAM comes with a 30-day return policy.
 
 *Pricing note (for you):* Laptop kit. Base $22 (2 x $11, DDR3-1600 laptop row). Comp: Samsung 2x8GB DDR3L-1600 desktop (bare) sold 4x at $19.99 in Oct. If more pairs turn up, make it a quantity listing.
 
@@ -473,7 +497,9 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 **Title (79 characters):** G.Skill Aegis 16GB (2x8GB) DDR3L 1600 CL11 F3-1600C11D-16GISL 1.35V Desktop RAM
 
-**Description:** Matched kit G.Skill Aegis F3-1600C11D-16GISL (Aug 2015, consecutive serials). 2x 8GB DDR3L-1600 (PC3L-12800) CL11-11-11-28, 1.35V low-voltage (also runs at 1.5V), Intel XMP, red/black heatspreaders. 16GB total. Desktop 240-pin, non-ECC unbuffered. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+**Description:** Matched kit G.Skill Aegis F3-1600C11D-16GISL (Aug 2015, consecutive serials). 2x 8GB DDR3L-1600 (PC3L-12800) CL11-11-11-28, 1.35V low-voltage (also runs at 1.5V), Intel XMP, red/black heatspreaders. 16GB total. Desktop 240-pin, non-ECC unbuffered. Pulled from a working system. Ships in anti-static packaging.
+
+**Testing and returns:** Gallaher Computers checks every module with a continuity RAM tester, which confirms the circuits are complete with no breaks. It is a basic electrical check, not a full load or stress test. If you run into any problem, please message us and we'll make it right. All RAM comes with a 30-day return policy.
 
 *Pricing note (for you):* Slightly under base ($25): CL11 timing, budget Aegis line; G34 (Corsair XMS3 2x8GB 1600 CL11) sold for $20. Found Nov 10.
 
@@ -483,7 +509,9 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 **Title (79 characters):** Kingston 32GB (4x8GB) DDR3 1600 PC3-12800 Desktop RAM KVR16N11/8 Non-ECC Tested
 
-**Description:** 4x Kingston ValueRAM KVR16N11/8, 8GB DDR3-1600 (PC3-12800) CL11, 1.5V, dual rank. Same part number on all four (module revisions 99U5471-036/-037/-054). 32GB total. Desktop 240-pin, non-ECC unbuffered, no heatspreaders. Fits DDR3 desktops (Intel 2nd-4th gen, AMD FX/APU; Dell OptiPlex, HP Elite/ProDesk, Lenovo ThinkCentre). Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
+**Description:** 4x Kingston ValueRAM KVR16N11/8, 8GB DDR3-1600 (PC3-12800) CL11, 1.5V, dual rank. Same part number on all four (module revisions 99U5471-036/-037/-054). 32GB total. Desktop 240-pin, non-ECC unbuffered, no heatspreaders. Fits DDR3 desktops (Intel 2nd-4th gen, AMD FX/APU; Dell OptiPlex, HP Elite/ProDesk, Lenovo ThinkCentre). Pulled from working systems. Ships in anti-static packaging.
+
+**Testing and returns:** Gallaher Computers checks every module with a continuity RAM tester, which confirms the circuits are complete with no breaks. It is a basic electrical check, not a full load or stress test. If you run into any problem, please message us and we'll make it right. All RAM comes with a 30-day return policy.
 
 *Pricing note (for you):* Plain value RAM. Bulk value 4 x $11 = $44; comps about $9.50-10 a stick (Lot 14 Samsung 8x8GB sold $75). Priced $39.99 to move.
 

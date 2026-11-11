@@ -42,7 +42,7 @@ Stock so far: 1x GeIL GASB44GB2666C19SC 4GB DDR4-2666 desktop (Nov 10). Add each
 
 ## Description
 
-Tested DDR4 RAM by the stick: choose laptop SODIMM or desktop DIMM, 4GB, 8GB or 16GB, and speed DDR4-2133, 2400, 2666 or 3200, then enter the quantity you need. Every stick tested on a RAM tester. All modules non-ECC unbuffered.
+DDR4 RAM by the stick: choose laptop SODIMM or desktop DIMM, 4GB, 8GB or 16GB, and speed DDR4-2133, 2400, 2666 or 3200, then enter the quantity you need. Every stick checked on a continuity RAM tester (see below). All modules non-ECC unbuffered.
 
 - Laptop SODIMM = 260-pin. Desktop DIMM = 288-pin.
 - DDR4-2133 = PC4-17000, DDR4-2400 = PC4-19200, DDR4-2666 = PC4-21300, DDR4-3200 = PC4-25600.
@@ -50,3 +50,5 @@ Tested DDR4 RAM by the stick: choose laptop SODIMM or desktop DIMM, 4GB, 8GB or 
 - Volume discount on larger quantities. Need a lot of a specific mix? Message me.
 
 Ships in anti-static packaging.
+
+**Testing and returns:** Gallaher Computers checks every module with a continuity RAM tester, which confirms the circuits are complete with no breaks. It is a basic electrical check, not a full load or stress test. If you run into any problem, please message us and we'll make it right. All RAM comes with a 30-day return policy.
