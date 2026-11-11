@@ -469,6 +469,16 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* Slightly under base ($25): CL11 timing, budget Aegis line; G34 (Corsair XMS3 2x8GB 1600 CL11) sold for $20. Found Nov 10.
 
+# Batch 17 - Desktop kits
+
+## G56. $39.99
+
+**Title (79 characters):** Kingston 32GB (4x8GB) DDR3 1600 PC3-12800 Desktop RAM KVR16N11/8 Non-ECC Tested
+
+**Description:** 4x Kingston ValueRAM KVR16N11/8, 8GB DDR3-1600 (PC3-12800) CL11, 1.5V, dual rank. Same part number on all four (module revisions 99U5471-036/-037/-054). 32GB total. Desktop 240-pin, non-ECC unbuffered, no heatspreaders. Fits DDR3 desktops (Intel 2nd-4th gen, AMD FX/APU; Dell OptiPlex, HP Elite/ProDesk, Lenovo ThinkCentre). Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
+
+*Pricing note (for you):* Plain value RAM. Bulk value 4 x $11 = $44; comps about $9.50-10 a stick (Lot 14 Samsung 8x8GB sold $75). Priced $39.99 to move.
+
 # Send back to supplier (90 sticks)
 
 | # | Stick | Size / speed | Reason |
