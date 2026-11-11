@@ -373,15 +373,23 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* Laptop stick, not gaming RAM. Priced under the bulk sheet ($57.50) to move quickly; check eBay sold for HMA82GS6CJR8N-XN before listing. Lowest offer to accept: $40.
 
-# Batch 14 - DDR3 4GB lot (trial)
+# Batch 14 - DDR3 4GB lots (trial; G44 split into G44 + G57 on Nov 11)
 
-## G44. $107.99
+## G44. $57.99
 
-**Title (80 characters):** Lot of 53 4GB DDR3 2400 2133 1600 1333 Desktop RAM 212GB G.Skill Corsair Crucial
+**Title (77 characters):** Lot of 27 G.Skill 4GB DDR3 2400 2133 1600 Desktop RAM 108GB Ripjaws Trident X
 
-**Description:** 53x 4GB DDR3 desktop gaming RAM, 212GB total. 2x DDR3-2400 (PC3-19200) CL10-12-12-31, 1.65V, Intel XMP: G.Skill Trident X F3-2400C10D-8GTX (black/red, removable fin tops). 6x DDR3-2133 (PC3-17000), Intel XMP: 5x G.Skill RipjawsZ F3-17000CL11Q2-32GBZL (CL11-11-11-30, 1.6V, red, tall heatspreader), 1x G.Skill Ripjaws X F3-2133C9D-8GXL (CL9-11-11-31, 1.6-1.65V, red). 40x DDR3-1600 (PC3-12800), 1.5V: 4x G.Skill Ripjaws X F3-12800CL8D-8GBXM (CL8-8-8-24, blue), 11x G.Skill Ripjaws X F3-12800CL9D-8GBXL (CL9, red), 1x G.Skill Ripjaws X F3-12800CL9Q-16GBXL (CL9, red), 2x G.Skill RipjawsZ F3-12800CL9Q-16GBZL (CL9, red, tall heatspreader), 5x Corsair Vengeance CMZ8GX3M2A1600C9 (CL9, black), 3x Corsair Vengeance CMZ8GX3M2A1600C9B (CL9, blue), 2x Corsair Vengeance Pro CMY8GX3M2A1600C9B (CL9, black/blue), 1x Corsair Vengeance CMZ4GX3M1A1600C9 (CL9, black), 5x Corsair Vengeance LP CML8GX3M2A1600C9 (CL9, low-profile black), 4x Corsair Vengeance LP CML16GX3M4A1600C9 (CL9, low-profile black), 1x Crucial Ballistix Sport BLS4G3D1609DS1S00 (CL9, black), 1x G.Skill Sniper F3-12800CL9D-8GBSR2 (CL9, black/red). 5x DDR3-1333 (PC3-10600) CL9, 1.5V: 2x G.Skill Ripjaws X F3-10666CL9D-8GBXL (red), 2x G.Skill Ripjaws F3-10666CL9D-8GBRL (red), 1x Crucial Ballistix Sport BLS4G3D1339DS1S00 (black). Desktop 240-pin, non-ECC unbuffered. Mixed brands and speeds; sold as one lot. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
+**Description:** 27x G.Skill 4GB DDR3 desktop gaming RAM, 108GB total. 2x DDR3-2400 (PC3-19200) CL10-12-12-31, 1.65V, Intel XMP: G.Skill Trident X F3-2400C10D-8GTX (black/red, removable fin tops). 6x DDR3-2133 (PC3-17000), Intel XMP: 5x G.Skill RipjawsZ F3-17000CL11Q2-32GBZL (CL11-11-11-30, 1.6V, red, tall heatspreader), 1x G.Skill Ripjaws X F3-2133C9D-8GXL (CL9-11-11-31, 1.6-1.65V, red). 19x DDR3-1600 (PC3-12800), 1.5V: 4x G.Skill Ripjaws X F3-12800CL8D-8GBXM (CL8-8-8-24, blue), 11x G.Skill Ripjaws X F3-12800CL9D-8GBXL (CL9, red), 1x G.Skill Ripjaws X F3-12800CL9Q-16GBXL (CL9, red), 2x G.Skill RipjawsZ F3-12800CL9Q-16GBZL (CL9, red, tall heatspreader), 1x G.Skill Sniper F3-12800CL9D-8GBSR2 (CL9, black/red). Desktop 240-pin, non-ECC unbuffered. All G.Skill; mixed speeds; sold as one lot. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
 
-*Pricing note (for you):* Trial: 4GB DDR3 normally goes back to the supplier. One lot of 53 at $107.99 (about $2.04 a stick); heavier shipping (~5 lb). Owner is still adding sticks; split it into smaller lots once everything is in. If it doesn't sell in about 2 weeks, send it all back.
+*Pricing note (for you):* Trial: 4GB DDR3 normally goes back to the supplier. Split from the original 53-stick G44 on Nov 11: all the G.Skill at 1600 and faster (the 2400 and 2133 sticks are here). $57.99 is about $2.15 a stick, a little above the old $2.04 because of the faster sticks and single brand. Ships about 2.5 lb. If it doesn't sell in about 2 weeks, send it back.
+
+## G57. $49.99
+
+**Title (80 characters):** Lot of 26 Corsair Vengeance 4GB DDR3 1600 1333 Desktop RAM 104GB Crucial G.Skill
+
+**Description:** 26x 4GB DDR3 desktop RAM, 104GB total. 21x DDR3-1600 (PC3-12800) CL9, 1.5V: 5x Corsair Vengeance CMZ8GX3M2A1600C9 (black), 3x Corsair Vengeance CMZ8GX3M2A1600C9B (blue), 2x Corsair Vengeance Pro CMY8GX3M2A1600C9B (black/blue), 1x Corsair Vengeance CMZ4GX3M1A1600C9 (black), 5x Corsair Vengeance LP CML8GX3M2A1600C9 (low-profile black), 4x Corsair Vengeance LP CML16GX3M4A1600C9 (low-profile black), 1x Crucial Ballistix Sport BLS4G3D1609DS1S00 (black). 5x DDR3-1333 (PC3-10600) CL9, 1.5V: 2x G.Skill Ripjaws X F3-10666CL9D-8GBXL (red), 2x G.Skill Ripjaws F3-10666CL9D-8GBRL (red), 1x Crucial Ballistix Sport BLS4G3D1339DS1S00 (black). Desktop 240-pin, non-ECC unbuffered. Mixed brands and speeds; sold as one lot. Tested on a RAM tester. Pulled from working systems. Ships in anti-static packaging.
+
+*Pricing note (for you):* Trial: 4GB DDR3 normally goes back to the supplier. Split from the original 53-stick G44 on Nov 11: all 20 Corsair, both Crucial and the 4 G.Skill 1333 sticks. $49.99 is about $1.92 a stick, a little under the old $2.04 because of the 1333 sticks. Ships about 2.5 lb. If it doesn't sell in about 2 weeks, send it back.
 
 # Batch 15 - DDR3 kits (rebuilt from G1)
 
