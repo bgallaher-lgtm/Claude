@@ -5,7 +5,7 @@ Lot of 8 Samsung 32GB DDR4 2666 PC4-2666V ECC REG RDIMM M393A4K40CB2-CTD 256GB
 
 **Price:** $1,200.00. 8 x $150 (32GB DDR4-2666 server) = $1,200.
 
-**Status:** Listed by owner ~Nov 10, 2026.
+**Status:** Listed ~Nov 10, 2026. **SOLD overnight Nov 10-11 at asking price, $1,200.00.** Ship with signature confirmation (over $750).
 
 ---
 

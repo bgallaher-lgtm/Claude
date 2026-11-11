@@ -5,7 +5,7 @@ Lot of 8 Samsung 32GB DDR4 2400 PC4-2400T ECC REG RDIMM M393A4K40BB1-CRC 256GB
 
 **Price:** $975.00. Priced on 7 good sticks: the sheet value is $875 (7 x $125, 32GB DDR4-2400 server); you listed at $975, including the 8th damaged stick as a bonus.
 
-**Status:** Listed by owner ~Nov 10, 2026.
+**Status:** Listed ~Nov 10, 2026. **SOLD overnight Nov 10-11 at asking price, $975.00.** Ship with signature confirmation (over $750).
 
 ---
 
