@@ -1,4 +1,4 @@
-# eBay Lot 29 Listing: 2x Samsung 32GB DDR4-2133 LRDIMM (to list)
+# eBay Lot 29 Listing: 2x Samsung 32GB DDR4-2133 LRDIMM (SOLD Nov 12, $199.99)
 
 **Title (75 characters):**
 Lot of 2 Samsung 32GB DDR4 2133 LRDIMM M386A4G40DM0-CPB Lenovo 46W0802 64GB
