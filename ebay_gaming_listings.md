@@ -515,7 +515,7 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* Plain value RAM. Bulk value 4 x $11 = $44; comps about $9.50-10 a stick (Lot 14 Samsung 8x8GB sold $75). Priced $39.99 to move.
 
-# Send back to supplier (90 sticks)
+# Send back to supplier (92 sticks)
 
 | # | Stick | Size / speed | Reason |
 |---|---|---|---|
@@ -563,3 +563,4 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 | 42 | Crucial CT102472AF667 / Micron MT36HTS1G72FY-667A1D4 x1 | 8GB DDR2-667 FB-DIMM (PC2-5300F) | Single old FB-DIMM; not worth listing alone. Nov 10 |
 | 43 | Kingston KTM5780/8G (IBM FRU 40T6602) x2 | 4GB DDR2-667 FB-DIMM (PC2-5300F) | 4GB FB-DIMM, IBM server; lowest value. Nov 10 |
 | 44 | Corsair ValueSelect CMSO8GX3M2C1600C11 x3 | 4GB DDR3L-1600 laptop SODIMM | 4GB DDR3 laptop; serials 775770/771 (a pair) + 775784. Nov 5 + Nov 10 |
+| 45 | Kingston KVR16LS11/4 x2 | 4GB DDR3L-1600 laptop SODIMM | 4GB DDR3 laptop; matching pair, but a 2x4GB kit nets only a few dollars. Nov 12 |
