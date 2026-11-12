@@ -1,5 +1,7 @@
 # eBay Lot 25 Listing: 52x DDR4 Mixed (to list)
 
+> **DISMANTLED Nov 12, 2026. Never listed.** The sticks went back into stock to be recounted into standard recipe lots. Kept for reference only.
+
 **Title (76 characters):**
 Lot of 52 DDR4 RAM Mixed 2GB 4GB 8GB 16GB Desktop Laptop 2133 2400 2666 3200
 

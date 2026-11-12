@@ -32,11 +32,11 @@ DDR4 RAM Bulk Pick Your Size Speed Laptop SODIMM Desktop DIMM 4GB 8GB 16GB Teste
 | Desktop DIMM | 8GB | DDR4-2400 | $24.00 | 0 |
 | Desktop DIMM | 8GB | DDR4-2133 | $24.00 | 0 |
 | Desktop DIMM | 4GB | DDR4-3200 | $15.00 | 0 |
-| Desktop DIMM | 4GB | DDR4-2666 | $13.00 | 1 |
+| Desktop DIMM | 4GB | DDR4-2666 | $13.00 | 0 |
 | Desktop DIMM | 4GB | DDR4-2400 | $12.00 | 0 |
 | Desktop DIMM | 4GB | DDR4-2133 | $12.00 | 0 |
 
-Stock so far: 1x GeIL GASB44GB2666C19SC 4GB DDR4-2666 desktop (Nov 10). Add each new DDR4 stick to its row instead of a new lot; keep 2GB, server and DDR3 out.
+Stock reset to 0 on Nov 12 for a fresh recount (the GeIL 4GB DDR4-2666 stick goes back into the count with everything else). Add each new DDR4 stick to its row instead of a new lot; keep 2GB, server and DDR3 out.
 
 ---
 
