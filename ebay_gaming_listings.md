@@ -521,11 +521,11 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 **Title (80 characters):** 32GB (2x16GB) DDR4 2666 Laptop RAM SODIMM PC4-21300 260-Pin Non-ECC Micron Chips
 
-**Description:** 2x 16GB DDR4-2666 (PC4-21300) laptop SODIMM, 32GB total. 260-pin, non-ECC unbuffered, 1.2V. Micron DRAM chips on a black PCB (aftermarket module, no maker label; inventory stickers M00420963 and M00420965). Matching pair, same build. Fits DDR4 laptops and mini PCs (Intel 6th-10th gen, AMD Ryzen); also runs at 2400 or 2133 in systems that top out there. Pulled from working systems. Ships in anti-static packaging.
+**Description:** 2x 16GB DDR4-2666 (PC4-21300) laptop SODIMM, 32GB total. 260-pin, non-ECC unbuffered, 1.2V, dual rank (2Rx8, 16 chips). Micron DRAM chips on a black PCB (aftermarket module, no maker label; inventory stickers M00420963 and M00420965). Matching pair, same build. Fits DDR4 laptops and mini PCs (Intel 6th-10th gen, AMD Ryzen); also runs at 2400 or 2133 in systems that top out there. Pulled from working systems. Ships in anti-static packaging.
 
 **Testing and returns:** Gallaher Computers checks every module with a continuity RAM tester, which confirms the circuits are complete with no breaks. It is a basic electrical check, not a full load or stress test. If you run into any problem, please message us and we'll make it right. All RAM comes with a 30-day return policy.
 
-*Pricing note (for you):* Laptop kit. Bulk value 2 x $54.50 = $109 (16GB DDR4-2666 laptop row). Priced $99.99 (about 92%) because the modules have no maker label. Size and speed per the owner (identified earlier); confirm 16GB 2666 in a laptop BIOS before posting. Accept offers from about $90. Added Nov 13.
+*Pricing note (for you):* Laptop kit. Bulk value 2 x $54.50 = $109 (16GB DDR4-2666 laptop row). Priced $99.99 (about 92%) because the modules have no maker label. Identified in another chat from the Micron chip code D9TGG (read there as MT40A1G8SA-075:E, 8Gb DDR4-2666) x 16 chips = 16GB 2Rx8; not independently verified here. Confirm 16GB 2666 in a laptop BIOS before posting. Accept offers from about $90. Added Nov 13.
 
 # Send back to supplier (92 sticks)
 

@@ -13,3 +13,4 @@ Part numbers seen while sorting, so repeat sticks can be identified quickly.
 | Chips / board | Module | Notes |
 |---|---|---|
 | SK hynix H5AN8G6NAFR-UHC, 4 chips per side, SK hynix board | DDR4-2400 laptop SODIMM: 4GB 1Rx16 if one-sided, 8GB 2Rx16 if both sides have chips | Nov 12, 2026 |
+| Micron FBGA D9TGG, 8 chips per side (16 total), black aftermarket PCB, inventory stickers M00420963 / M00420965 | 16GB DDR4-2666 laptop SODIMM, 2Rx8 (listed as G58) | Nov 13, 2026. Decode (MT40A1G8SA-075:E, 8Gb DDR4-2666) came from another chat; not verified against Micron's decoder. |
