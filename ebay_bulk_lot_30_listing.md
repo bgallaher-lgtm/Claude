@@ -1,4 +1,4 @@
-# eBay Lot 30 Listing: 7x ADATA 8GB DDR4-2666 RDIMM (to list)
+# eBay Lot 30 Listing: 7x ADATA 8GB DDR4-2666 RDIMM (listed Nov 12)
 
 **Title (77 characters):**
 Lot of 7 ADATA 8GB DDR4 2666 ECC REG RDIMM AD4R266638G19-BSSC Server RAM 56GB

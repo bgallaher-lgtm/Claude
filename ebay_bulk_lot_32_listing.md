@@ -1,4 +1,4 @@
-# eBay Lot 32 Listing: 6x Samsung 32GB DDR4-2666 RDIMM (to list)
+# eBay Lot 32 Listing: 6x Samsung 32GB DDR4-2666 RDIMM (listed Nov 12)
 
 **Title (79 characters):**
 Lot of 6 Samsung 32GB DDR4 2666 ECC REG RDIMM M393A4K40CB2-CTD Supermicro 192GB

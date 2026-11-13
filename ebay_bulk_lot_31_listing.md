@@ -1,4 +1,4 @@
-# eBay Lot 31 Listing: 5x Micron 4GB DDR4-2400 RDIMM (to list)
+# eBay Lot 31 Listing: 5x Micron 4GB DDR4-2400 RDIMM (SOLD Nov 12, $64.99)
 
 **Title (80 characters):**
 Lot of 5 Micron 4GB DDR4 2400 ECC REG RDIMM MTA9ASF51272PZ-2G3B1 Server RAM 20GB
