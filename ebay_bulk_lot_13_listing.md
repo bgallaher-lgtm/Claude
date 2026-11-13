@@ -3,7 +3,7 @@
 **Title (78 characters):**
 Lot of 8 8GB DDR3L DDR3 Laptop RAM SODIMM 64GB PC3L-12800S Mixed Brands Tested
 
-**Price:** $88.00 | Free Shipping (8 sticks at $11.00 each)
+**Price:** $74.99 | Free Shipping | Best Offer on (8 sticks, about $9.37 each). Lowered from $88 on Nov 13 to match the $75 that Lot 14's first lot sold for. If still unsold at the Nov 19 review, go to about $64.99.
 
 ---
 
