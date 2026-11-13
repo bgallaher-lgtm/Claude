@@ -377,15 +377,15 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 # Batch 14 - DDR3 4GB lots (trial; G44 split into G44 + G57 on Nov 11)
 
-## G44. $57.99
+## G44. $65.99
 
-**Title (77 characters):** Lot of 27 G.Skill 4GB DDR3 2400 2133 1600 Desktop RAM 108GB Ripjaws Trident X
+**Title (77 characters):** Lot of 31 G.Skill 4GB DDR3 2400 2133 1600 Desktop RAM 124GB Ripjaws Trident X
 
-**Description:** 27x G.Skill 4GB DDR3 desktop gaming RAM, 108GB total. 2x DDR3-2400 (PC3-19200) CL10-12-12-31, 1.65V, Intel XMP: G.Skill Trident X F3-2400C10D-8GTX (black/red, removable fin tops). 6x DDR3-2133 (PC3-17000), Intel XMP: 5x G.Skill RipjawsZ F3-17000CL11Q2-32GBZL (CL11-11-11-30, 1.6V, red, tall heatspreader), 1x G.Skill Ripjaws X F3-2133C9D-8GXL (CL9-11-11-31, 1.6-1.65V, red). 19x DDR3-1600 (PC3-12800), 1.5V: 4x G.Skill Ripjaws X F3-12800CL8D-8GBXM (CL8-8-8-24, blue), 11x G.Skill Ripjaws X F3-12800CL9D-8GBXL (CL9, red), 1x G.Skill Ripjaws X F3-12800CL9Q-16GBXL (CL9, red), 2x G.Skill RipjawsZ F3-12800CL9Q-16GBZL (CL9, red, tall heatspreader), 1x G.Skill Sniper F3-12800CL9D-8GBSR2 (CL9, black/red). Desktop 240-pin, non-ECC unbuffered. All G.Skill; mixed speeds; sold as one lot. Pulled from working systems. Ships in anti-static packaging.
+**Description:** 31x G.Skill 4GB DDR3 desktop gaming RAM, 124GB total. 2x DDR3-2400 (PC3-19200) CL10-12-12-31, 1.65V, Intel XMP: G.Skill Trident X F3-2400C10D-8GTX (black/red, removable fin tops). 6x DDR3-2133 (PC3-17000), Intel XMP: 5x G.Skill RipjawsZ F3-17000CL11Q2-32GBZL (CL11-11-11-30, 1.6V, red, tall heatspreader), 1x G.Skill Ripjaws X F3-2133C9D-8GXL (CL9-11-11-31, 1.6-1.65V, red). 23x DDR3-1600 (PC3-12800), 1.5V: 4x G.Skill Ripjaws X F3-12800CL8D-8GBXM (CL8-8-8-24, blue), 4x G.Skill Ares F3-1600C8D-8GAB (CL8-8-8-24, Intel XMP, blue low-profile), 11x G.Skill Ripjaws X F3-12800CL9D-8GBXL (CL9, red), 1x G.Skill Ripjaws X F3-12800CL9Q-16GBXL (CL9, red), 2x G.Skill RipjawsZ F3-12800CL9Q-16GBZL (CL9, red, tall heatspreader), 1x G.Skill Sniper F3-12800CL9D-8GBSR2 (CL9, black/red). Desktop 240-pin, non-ECC unbuffered. All G.Skill; mixed speeds; sold as one lot. Pulled from working systems. Ships in anti-static packaging.
 
 **Testing and returns:** Gallaher Computers checks every module with a continuity RAM tester, which confirms the circuits are complete with no breaks. It is a basic electrical check, not a full load or stress test. If you run into any problem, please message us and we'll make it right. All RAM comes with a 30-day return policy.
 
-*Pricing note (for you):* Trial: 4GB DDR3 normally goes back to the supplier. Split from the original 53-stick G44 on Nov 11: all the G.Skill at 1600 and faster (the 2400 and 2133 sticks are here). $57.99 is about $2.15 a stick, a little above the old $2.04 because of the faster sticks and single brand. Ships about 2.5 lb. If it doesn't sell in about 2 weeks, send it back.
+*Pricing note (for you):* Trial: 4GB DDR3 normally goes back to the supplier. Split from the original 53-stick G44 on Nov 11: all the G.Skill at 1600 and faster (the 2400 and 2133 sticks are here). $65.99 is about $2.13 a stick, a little above the old $2.04 because of the faster sticks and single brand. Ships about 2.5 lb. If it doesn't sell in about 2 weeks, send it back. 4x G.Skill Ares F3-1600C8D-8GAB added Nov 13 (was 27 sticks at $57.99).
 
 ## G57. $49.99
 
