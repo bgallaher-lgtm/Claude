@@ -5,7 +5,7 @@ Lot of 53 DDR4 RAM 380GB Desktop Laptop 4GB 8GB 2133 2400 2666 3200 Mixed Brands
 
 **Price:** $1,179.99 each | **Quantity: 3** (each purchase = one 53-stick lot) | Free Shipping | Best Offer on. Sheet value $1,183 per lot (Recipe Lots tab). Accept offers from about $1,090 (92%). Lot 22 (56 sticks) sold for $1,190. Ship with signature confirmation (over $750).
 
-**How this listing works:** every lot ships the exact same mix (the recipe below). When stock for the recipe runs low, the listing goes to quantity 0 (turn on eBay's Out-of-stock control so it stays up with its sales history) and gets restocked when there are enough sticks for another batch. Recipe and on-hand counts live on the **Recipe Lots** tab of `ram_bulk_pricing.xlsx`.
+**How this listing works:** every lot ships the same count of each size and speed (the recipe below); brands and part numbers vary from lot to lot, and the description says so. When stock for the recipe runs low, the listing goes to quantity 0 (turn on eBay's Out-of-stock control so it stays up with its sales history) and gets restocked when there are enough sticks for another batch. Recipe and on-hand counts live on the **Recipe Lots** tab of `ram_bulk_pricing.xlsx`.
 
 ---
 
@@ -13,7 +13,9 @@ Lot of 53 DDR4 RAM 380GB Desktop Laptop 4GB 8GB 2133 2400 2666 3200 Mixed Brands
 
 Lot of 53 DDR4 RAM sticks, 380GB total: 19 desktop DIMMs and 34 laptop SODIMMs, 4GB and 8GB, DDR4-2133 to DDR4-3200. All modules are non-ECC unbuffered. Mixed brands (Samsung, SK hynix, Micron, Kingston, etc.). Every stick checked on a continuity RAM tester (see below).
 
-**This listing is for one lot. Every lot contains exactly the same mix:**
+**This listing is for one lot. Every lot has the same count of each size and speed listed below.** Brands, part numbers and labels vary from lot to lot, so the sticks in your lot will be a different mix of brands than the ones pictured. The photos show an example lot, not the exact set you will receive.
+
+**Size and speed breakdown (same in every lot):**
 
 LAPTOP SODIMM, 260-pin, non-ECC (34 sticks, 232GB)
 
