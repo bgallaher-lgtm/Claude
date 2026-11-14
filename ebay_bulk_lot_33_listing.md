@@ -1,4 +1,4 @@
-# eBay Lot 33 Listing: 53x DDR4 standard recipe lot, quantity 3 (to list)
+# eBay Lot 33 Listing: 53x DDR4 standard recipe lot, quantity 3 (ALL 3 SOLD Nov 14 at $1,160 each; listing at 0, restock when recipe stock is back)
 
 **Title (80 characters):**
 Lot of 53 DDR4 RAM 380GB Desktop Laptop 4GB 8GB 2133 2400 2666 3200 Mixed Brands
