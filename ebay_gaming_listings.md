@@ -65,13 +65,15 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* Below base: budget brand, chipped paint on heatspreader edges - show it. Priced on the 3200 row.
 
-## G8. $38.99
+## G8. $49.99
 
-**Title (80 characters):** Corsair Vengeance LPX 12GB (3x4GB) DDR4 2666 CL16 CMK16GX4M4A2666C16 Desktop RAM
+**Title (80 characters):** Corsair Vengeance LPX 16GB (4x4GB) DDR4 2666 CL16 CMK16GX4M4A2666C16 Desktop RAM
 
-**Description:** 3x Corsair Vengeance LPX CMK16GX4M4A2666C16 (from the 4x4GB kit), 4GB DDR4-2666 (PC4-21300) CL16-18-18-36, 1.2V, Intel XMP 2.0, black low-profile heatspreaders. Same part number on all three. 12GB total. Desktop 288-pin, non-ECC unbuffered. Tested on a RAM tester. Pulled from a working system. Ships in anti-static packaging.
+**Description:** 4x Corsair Vengeance LPX CMK16GX4M4A2666C16, the complete 4x4GB kit. 4GB DDR4-2666 (PC4-21300) CL16-18-18-36, 1.2V, Intel XMP 2.0, black low-profile heatspreaders. Same part number on all four. 16GB total. Desktop 288-pin, non-ECC unbuffered. Fills all 4 slots for quad-channel (X99/X299) or dual-channel boards. Pulled from a working system. Ships in anti-static packaging.
 
-*Pricing note (for you):* Nov 10: REBUILT. Was "8GB (2x4GB) DDR4 Gaming RAM Corsair Vengeance LPX G.Skill Ripjaws V" at $24.99. 2 more Corsair found, so G8 is now 3x Corsair Vengeance LPX 2666; the G.Skill Ripjaws V moved to G50. Base 3 x $13.50 = $40.50; priced at $38.99, near G10/G16 (3x4GB DDR4-2400, $36.99). Edit the live listing: title, price, description, photos.
+**Testing and returns:** Gallaher Computers checks every module with a continuity RAM tester, which confirms the circuits are complete with no breaks. It is a basic electrical check, not a full load or stress test. If you run into any problem, please message us and we'll make it right. All RAM comes with a 30-day return policy.
+
+*Pricing note (for you):* Nov 15: 4th stick found, so G8 is the full 4x4GB kit (was 3 sticks at $38.99 in the sheet; the live listing was still $43.99). Base 4 x $13.50 = $54; priced $49.99 to match the 4x4GB DDR4-2400 kits (G12 sold $49.99, G9 sold $45). Accept offers from about $45. Edit the live listing: title, price, description, photos (all 4 sticks).
 
 ## G9. $49.99
 
