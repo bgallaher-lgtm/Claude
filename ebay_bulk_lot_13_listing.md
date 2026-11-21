@@ -1,9 +1,9 @@
-# eBay Lot 13 Listing: 8x 8GB DDR3/DDR3L Laptop RAM (quantity 3)
+# eBay Lot 13 Listing: 8x 8GB DDR3/DDR3L Laptop RAM (quantity 4 total)
 
 **Title (78 characters):**
 Lot of 8 8GB DDR3L DDR3 Laptop RAM SODIMM 64GB PC3L-12800S Mixed Brands Tested
 
-**Price:** $74.99 per lot | Free Shipping | Best Offer on (8 sticks, about $9.37 each). **eBay quantity: 3** (24 sticks on hand, changed Nov 13); each purchase = one 8-stick lot. Lowered from $88 on Nov 13 to match the $75 that Lot 14's first lot sold for. If still unsold at the Nov 19 review, go to about $64.99.
+**Price:** $74.99 per lot | Free Shipping | Best Offer on (8 sticks, about $9.37 each). **eBay quantity: 4 total** (3 set Nov 13 with 24 sticks; 1 sold for $65; +1 lot of 8 added Nov 21, so 3 left on eBay); each purchase = one 8-stick lot. Lowered from $88 on Nov 13 to match the $75 that Lot 14's first lot sold for. If still unsold at the Nov 19 review, go to about $64.99.
 
 ---
 
