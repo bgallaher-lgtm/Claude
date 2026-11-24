@@ -35,3 +35,4 @@ Need fewer? Message me and I can adjust the quantity and price.
 - Price from the bulk list (8GB DDR3-1600 laptop = $11). DDR3-1333 is the same price, so mixed speeds don't change the total.
 - Light sticks (no heatspreader, ~8g): about $7 total cost at $50/lb.
 - Before listing, check each label: if any are DDR3 (not DDR3L, 1.5V) or 1333 (PC3-10600S), say "DDR3/DDR3L 1333/1600 mixed" in the description. One photo with all 8 labels showing helps buyers.
+- Spares on hand (Nov 24): 2 loose 8GB DDR3/DDR3L laptop sticks, not enough for another set. Need 6 more for a 7th set.
