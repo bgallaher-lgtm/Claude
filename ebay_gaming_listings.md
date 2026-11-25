@@ -529,6 +529,12 @@ Prices are tracked on the **Gaming Listings** tab of `ram_bulk_pricing.xlsx`.
 
 *Pricing note (for you):* Laptop kit. Bulk value 2 x $54.50 = $109 (16GB DDR4-2666 laptop row). Priced $99.99 (about 92%) because the modules have no maker label. Identified in another chat from the Micron chip code D9TGG (read there as MT40A1G8SA-075:E, 8Gb DDR4-2666) x 16 chips = 16GB 2Rx8; not independently verified here. Confirm 16GB 2666 in a laptop BIOS before posting. Accept offers from about $90. Added Nov 13.
 
+## G59. $99.99 (second set of G58)
+
+Same listing as G58, which sold at $99.99 full price. On eBay use **Sell similar** on the sold G58 listing, swap in photos of this set, and update the inventory sticker numbers in the description (or remove them). Confirm the chips read Micron D9TGG (16 per stick) before posting.
+
+*Pricing note (for you):* Same as G58: bulk value 2 x $54.50 = $109; $99.99 sold at full price, so keep it. Accept offers from about $90. Added Nov 25.
+
 # Send back to supplier (92 sticks)
 
 | # | Stick | Size / speed | Reason |
