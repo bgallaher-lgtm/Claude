@@ -1,4 +1,6 @@
-# eBay Lot 30 Listing: 7x ADATA 8GB DDR4-2666 RDIMM (listed Nov 12)
+# eBay Lot 30 Listing: 7x ADATA 8GB DDR4-2666 RDIMM (listed Nov 12, SOLD Nov 25 for $175)
+
+**SOLD Nov 25, 2026: accepted a $175 Best Offer (80% of $219.99 list, $25 a stick) after 13 days unsold.**
 
 **Title (77 characters):**
 Lot of 7 ADATA 8GB DDR4 2666 ECC REG RDIMM AD4R266638G19-BSSC Server RAM 56GB
